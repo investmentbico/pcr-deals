@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Property Cash Relief — South Florida Investor Deals</title>
+<style>
+  :root{
+    --ink:#0f2a3f; --brand:#0b6e4f; --brand2:#0a4d6e; --accent:#15803d;
+    --muted:#5b6b73; --line:#e3e8ea; --bg:#f4f6f7; --card:#ffffff; --price:#15803d;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);line-height:1.5}
+  .wrap{max-width:640px;margin:0 auto;background:var(--card)}
+  /* Header */
+  .top{background:var(--brand2);height:10px}
+  .head{padding:28px 24px 20px;text-align:center;border-bottom:3px solid var(--brand2)}
+  .logo{display:flex;align-items:center;justify-content:center;gap:12px}
+  .mark{width:54px;height:54px;border-radius:12px;background:var(--brand);color:#fff;display:flex;align-items:center;justify-content:center;font-size:28px}
+  .brandname{font-size:26px;font-weight:800;letter-spacing:.5px;color:var(--brand2)}
+  .brandname b{color:var(--brand)}
+  .tag{margin:8px 0 0;font-style:italic;color:var(--brand2);font-size:17px}
+  .contact{margin-top:10px;font-weight:700;color:var(--accent);font-size:16px}
+  .contact a{color:var(--brand2);text-decoration:none}
+  .terms{margin-top:6px;color:var(--brand2);font-size:13px;font-weight:600}
+  .banner{background:var(--ink);color:#fff;text-align:center;font-weight:800;letter-spacing:.5px;padding:12px;font-size:16px}
+  /* Cards */
+  .deal{padding:22px 24px;border-bottom:1px solid var(--line)}
+  .addr{text-align:center;font-weight:700;font-size:16px;margin:0 0 12px}
+  .photo{width:100%;aspect-ratio:16/10;background:#dfe5e7 center/cover no-repeat;border-radius:10px;display:flex;align-items:center;justify-content:center;color:#8a979c;font-size:13px;overflow:hidden}
+  .specs{margin:14px 0 0;padding:0;list-style:none;text-align:center;color:#22343d;font-size:15px}
+  .specs li{margin:3px 0}
+  .arv{color:var(--muted);font-size:14px}
+  .pricerow{text-align:center;margin-top:14px}
+  .price{font-size:22px;font-weight:800;color:var(--price)}
+  .strike{color:#9aa6ab;text-decoration:line-through;font-size:15px;margin-right:8px}
+  .cta{display:inline-block;margin-top:8px;color:var(--accent);font-weight:800;font-size:16px;text-decoration:none}
+  .rule{height:2px;background:var(--ink);margin:14px auto 0;max-width:70%}
+  .foot{padding:22px 24px;text-align:center;color:var(--muted);font-size:13px;border-top:3px solid var(--brand2)}
+  .foot a{color:var(--brand2)}
+  .draftnote{background:#fff7ed;color:#9a3412;border:1px solid #fed7aa;border-radius:8px;padding:10px 14px;margin:16px 24px;font-size:13px;text-align:center}
+  /* Signup */
+  .signup{background:var(--brand2);color:#fff;padding:24px;text-align:center}
+  .signup h2{margin:0 0 4px;font-size:20px;font-weight:800}
+  .signup p{margin:0 0 16px;opacity:.9;font-size:14px}
+  .form{max-width:420px;margin:0 auto;display:grid;gap:10px}
+  .form input{width:100%;padding:13px 14px;border:0;border-radius:8px;font-size:15px}
+  .form button{padding:14px;border:0;border-radius:8px;background:var(--accent);color:#fff;font-weight:800;font-size:16px;cursor:pointer}
+  .form small{opacity:.8;font-size:12px;margin-top:4px}
+  .ok{display:none;background:#dcfce7;color:#14532d;border-radius:8px;padding:14px;font-weight:700}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"></div>
+  <div class="head">
+    <div class="logo">
+      <svg viewBox="0 0 320 100" width="280" height="88" role="img" aria-label="Property Cash Relief">
+        <path d="M40 48 L70 24 L100 48" fill="none" stroke="#15803d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="52" y="48" width="36" height="30" rx="3" fill="#0a3d5e"/>
+        <rect x="63" y="60" width="14" height="18" fill="#ffffff"/>
+        <text x="116" y="52" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#0a3d5e">Property</text>
+        <text x="116" y="80" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#15803d">Cash Relief</text>
+      </svg>
+    </div>
+    <p class="tag">Off-Market Deals. Cash Fast. No Hassle.</p>
+    <p class="contact">Text/Call &nbsp;954-643-4831 &nbsp;&middot;&nbsp; <a href="mailto:info@propertycashrelief.net">info@propertycashrelief.net</a></p>
+    <p class="contact"><a href="https://propertycashrelief.net">propertycashrelief.net</a></p>
+    <p class="terms">Cash or Hard Money / Private Money Deals &nbsp;&middot;&nbsp; Realtors, please add your commission</p>
+  </div>
+
+  <div class="draftnote">RASCUNHO — o preço mostrado ainda é o do wholesaler. Defina a regra de markup (ver topo do script) antes de publicar.</div>
+
+  <div class="signup">
+    <h2>Join our Cash Buyers List</h2>
+    <p>Get South Florida off-market deals in your inbox every day. Free.</p>
+    <form class="form" id="signup" onsubmit="return joinList(event)">
+      <input name="name" type="text" placeholder="Full name" required>
+      <input name="phone" type="tel" placeholder="Phone" required>
+      <input name="email" type="email" placeholder="Email" required>
+      <button type="submit">Send me the deals &rarr;</button>
+      <small>No spam. Unsubscribe anytime.</small>
+    </form>
+    <div class="ok" id="ok">You're in! Check your inbox &mdash; deals start tomorrow.</div>
+  </div>
+
+  <div class="banner">SOUTH FLORIDA WHOLESALE DEALS</div>
+
+  <div id="deals"></div>
+
+  <div class="foot">
+    <p>Property Cash Relief &middot; Florida &middot; <a href="https://propertycashrelief.net">propertycashrelief.net</a></p>
+    <p>Você recebe este e-mail por estar na nossa lista de investidores. Preços e disponibilidade sujeitos a mudança.</p>
+  </div>
+</div>
+
+<script>
+/* =======================================================================
+   MARKUP — sua margem sobre o preço do wholesaler.
+   mode: "flat" = soma valor fixo  |  "pct" = soma percentual  |  "none" = mostra o preço do wholesaler
+   ======================================================================= */
+const MARKUP = { mode: "none", flat: 15000, pct: 5 };
+
+/* Fonte dos deals: hoje preenchido à mão a partir do e-mail do wholesaler.
+   No piloto automático, este array é gerado a partir dos e-mails recebidos. */
+const DEALS = [
+  {addr:"1101 NW 180th Ave, Pembroke Pines, FL 33029", specs:["Block Construction 4 Bed / 2 Bath · 2,352 SqFt","Built 1993 · Corner lot · Impact windows/doors + shutters","Updated bathrooms · HOA $788"], arv:810000, ask:699900},
+  {addr:"4891 NW 5th St, Plantation, FL 33317", specs:["Single Family 3 Bed / 2 Bath · 1,806 SqFt","Lot 11,180 SqFt · Corner lot · Impact windows","Clean / outdated condition"], arv:580000, ask:459900},
+  {addr:"425 NW 6 St, Hallandale Beach, FL 33009", specs:["Block Construction 3 Bed / 2 Bath · 942 SqFt"], arv:425000, ask:259900},
+  {addr:"Pembroke Pines area, FL", specs:["5 Bed / 2 Bath · 1,925 SqFt","Lot 7,200 SqFt · Strong fix & flip opportunity"], arv:590000, ask:399000},
+  {addr:"284 Allenwood Dr, Lauderdale By The Sea, FL 33308", specs:["Block Pool Home 3 Bed / 2 Bath · 1,742 SqFt","Lot 6,555 SqFt · 1-car garage · Tile roof"], arv:1450000, ask:895000},
+  {addr:"42 SW 6th St, Dania Beach, FL 33004", specs:["3 Bed / 3 Bath","Lot 7,406 SqFt · Established neighborhood"], arv:0, ask:325000, was:370500},
+  {addr:"6231 SW 9th Pl, North Lauderdale, FL 33068", specs:["Single Family 2 Bed / 2 Bath · 1,384 SqFt","Built 1969 · Rehab half done"], arv:0, ask:355000},
+  {addr:"242 NW 7th Ave, Dania Beach, FL 33004", specs:["2 Bed / 2 Bath · 1,023 SqFt","Lot 5,426 SqFt · Light TLC"], arv:520000, ask:345000},
+  {addr:"819 NW 3rd St, Fort Lauderdale, FL", specs:["18 Units (2 Bed / 1 Bath each) · New roof","Income $306,000/yr · Pro forma up to $494,112/yr","NOI $283,407"], arv:0, ask:3200000}
+];
+
+/* Destino do cadastro — preencher com o endpoint da plataforma escolhida
+   (GoHighLevel form, Google Form, ou webhook próprio). */
+const SIGNUP_ENDPOINT = "";
+function joinList(e){
+  e.preventDefault();
+  const f = e.target;
+  const data = {name:f.name.value, phone:f.phone.value, email:f.email.value};
+  if(SIGNUP_ENDPOINT){
+    fetch(SIGNUP_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)});
+  } else {
+    console.log("CASH BUYER (endpoint não configurado):", data);
+  }
+  f.style.display="none";
+  document.getElementById("ok").style.display="block";
+  return false;
+}
+
+const usd = n => "$" + Math.round(n).toLocaleString("en-US");
+function priceOf(d){
+  if(MARKUP.mode==="flat") return d.ask + MARKUP.flat;
+  if(MARKUP.mode==="pct")  return Math.round(d.ask * (1 + MARKUP.pct/100));
+  return d.ask;
+}
+const phone = "954-643-4831";
+document.getElementById("deals").innerHTML = DEALS.map(d => {
+  const price = priceOf(d);
+  const specs = d.specs.map(s => "<li>"+s+"</li>").join("");
+  const arv = d.arv ? '<li class="arv">ARV '+usd(d.arv)+'</li>' : '';
+  const was = d.was ? '<span class="strike">'+usd(d.was)+'</span>' : '';
+  const img = d.img ? 'style="background-image:url('+d.img+')"' : '';
+  return `<div class="deal">
+    <p class="addr">${d.addr}</p>
+    <div class="photo" ${img}>${d.img?'':'Foto do imóvel'}</div>
+    <ul class="specs">${specs}${arv}</ul>
+    <div class="pricerow">
+      <div class="price">Asking ${was}${usd(price)}</div>
+      <a class="cta" href="tel:+19546434831">Text / Call ${phone}</a>
+      <div class="rule"></div>
+    </div>
+  </div>`;
+}).join("");
+</script>
+</body>
+</html>
