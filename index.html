@@ -115,6 +115,10 @@ const DEALS = [
   {addr:"819 NW 3rd St, Fort Lauderdale, FL", specs:["18 Units (2 Bed / 1 Bath each) · New roof","Income $306,000/yr · Pro forma up to $494,112/yr","NOI $283,407"], arv:0, ask:3200000}
 ];
 
+/* Fotos: cada deal pode trazer sua própria "img". Enquanto não chegam as reais
+   dos wholesalers, usamos fotos demo hospedadas no Pages. */
+DEALS.forEach((d,i)=>{ if(!d.img) d.img = "https://investmentbico.github.io/pcr-deals/images/p"+((i%8)+1)+".jpg"; });
+
 /* Destino do cadastro — preencher com o endpoint da plataforma escolhida
    (GoHighLevel form, Google Form, ou webhook próprio). */
 const SIGNUP_ENDPOINT = "";
