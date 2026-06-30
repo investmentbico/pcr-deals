@@ -24,6 +24,7 @@
   .contact a{color:var(--brand2);text-decoration:none}
   .terms{margin-top:6px;color:var(--brand2);font-size:13px;font-weight:600}
   .banner{background:var(--ink);color:#fff;text-align:center;font-weight:800;letter-spacing:.5px;padding:12px;font-size:16px}
+  .county{background:#eef2f4;color:var(--brand2);border-top:3px solid var(--brand);padding:11px 24px;font-weight:800;letter-spacing:1px;font-size:15px}
   /* Cards */
   .deal{padding:22px 24px;border-bottom:1px solid var(--line)}
   .addr{text-align:center;font-weight:700;font-size:16px;margin:0 0 12px}
@@ -69,7 +70,6 @@
     <p class="terms">Cash or Hard Money / Private Money Deals &nbsp;&middot;&nbsp; Realtors, please add your commission</p>
   </div>
 
-  <div class="draftnote">RASCUNHO — o preço mostrado ainda é o do wholesaler. Defina a regra de markup (ver topo do script) antes de publicar.</div>
 
   <div class="signup">
     <h2>Join our Cash Buyers List</h2>
@@ -128,24 +128,32 @@ function priceOf(d){
   return d.ask;
 }
 const phone = "954-643-4831";
+function card(d){
+  const price = priceOf(d);
+  const specs = (d.specs||[]).map(s => "<li>"+s+"</li>").join("");
+  const arv = d.arv ? '<li class="arv">ARV $'+d.arv+'</li>' : '';
+  const img = d.img ? 'style="background-image:url('+d.img+')"' : '';
+  return `<div class="deal">
+    <p class="addr">${d.addr}</p>
+    <div class="photo" ${img}>${d.img?'':'Foto do imóvel'}</div>
+    <ul class="specs">${specs}${arv}</ul>
+    <div class="pricerow">
+      <div class="price">Asking ${usd(price)}</div>
+      <a class="cta" href="tel:+19546434831">Text / Call ${phone}</a>
+      <div class="rule"></div>
+    </div>
+  </div>`;
+}
 function render(DEALS){
-  document.getElementById("deals").innerHTML = DEALS.map(d => {
-    const price = priceOf(d);
-    const specs = (d.specs||[]).map(s => "<li>"+s+"</li>").join("");
-    const arv = d.arv ? '<li class="arv">ARV $'+d.arv+'</li>' : '';
-    const was = d.was ? '<span class="strike">'+usd(d.was)+'</span>' : '';
-    const img = d.img ? 'style="background-image:url('+d.img+')"' : '';
-    return `<div class="deal">
-      <p class="addr">${d.addr}</p>
-      <div class="photo" ${img}>${d.img?'':'Foto do imóvel'}</div>
-      <ul class="specs">${specs}${arv}</ul>
-      <div class="pricerow">
-        <div class="price">Asking ${was}${usd(price)}</div>
-        <a class="cta" href="tel:+19546434831">Text / Call ${phone}</a>
-        <div class="rule"></div>
-      </div>
-    </div>`;
-  }).join("");
+  const groups = {};
+  DEALS.forEach(d => { const c = d.county||"Outros"; (groups[c]=groups[c]||[]).push(d); });
+  let html = "";
+  for (const county in groups){
+    const ds = groups[county];
+    html += `<div class="county">${county.toUpperCase()} COUNTY &middot; ${ds.length} ${ds.length==1?'DEAL':'DEALS'}</div>`;
+    html += ds.map(card).join("");
+  }
+  document.getElementById("deals").innerHTML = html;
 }
 fetch("./deals.json").then(r=>r.json()).then(render)
   .catch(()=>{ document.getElementById("deals").innerHTML='<p style="text-align:center;padding:24px;color:#8a979c">Deals em atualização…</p>'; });
