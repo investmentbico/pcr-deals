@@ -25,13 +25,14 @@
   .terms{margin-top:6px;color:var(--brand2);font-size:13px;font-weight:600}
   .banner{background:var(--ink);color:#fff;text-align:center;font-weight:800;letter-spacing:.5px;padding:12px;font-size:16px}
   .county{background:#eef2f4;color:var(--brand2);border-top:3px solid var(--brand);padding:11px 24px;font-weight:800;letter-spacing:1px;font-size:15px}
-  .whatsapp{background:linear-gradient(160deg,#0b3d2e,#128c4a);color:#fff;text-align:center;padding:28px 24px}
-  .wa-badge{display:inline-block;background:#25D366;color:#053b1e;font-weight:800;font-size:13px;letter-spacing:1px;border-radius:20px;padding:6px 14px}
-  .whatsapp h2{margin:14px 0 4px;font-size:22px;font-weight:800}
-  .whatsapp p{margin:0 auto 18px;opacity:.92;font-size:14px;max-width:360px}
-  .wa-btn{display:inline-block;background:#25D366;color:#053b1e;font-weight:800;font-size:17px;text-decoration:none;padding:14px 30px;border-radius:10px}
-  .wa-qr{display:block;margin:18px auto 4px;background:#fff;border-radius:12px;padding:8px;width:150px;height:150px}
-  .wa-scan{font-size:13px;opacity:.85}
+  .head-top{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:6px}
+  .head-top .logo svg{width:230px;height:auto;max-width:58vw}
+  .wa-top{display:flex;flex-direction:column;align-items:center;gap:6px}
+  .wa-btn{display:inline-flex;align-items:center;gap:8px;background:#25D366;color:#053b1e;font-weight:800;font-size:15px;text-decoration:none;padding:11px 20px;border-radius:24px;white-space:nowrap;box-shadow:0 3px 10px rgba(18,140,74,.35)}
+  .wa-btn .wa-ico{font-size:18px;line-height:1}
+  .wa-qr{width:92px;height:92px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:5px}
+  .wa-scan{font-size:11px;color:var(--muted);letter-spacing:.5px}
+  @media(max-width:520px){.head-top{justify-content:center}.wa-qr{display:none}}
   /* Cards */
   .deal{padding:22px 24px;border-bottom:1px solid var(--line)}
   .addr{text-align:center;font-weight:700;font-size:16px;margin:0 0 12px}
@@ -62,14 +63,21 @@
 <div class="wrap">
   <div class="top"></div>
   <div class="head">
-    <div class="logo">
-      <svg viewBox="0 0 320 100" width="280" height="88" role="img" aria-label="Property Cash Relief">
-        <path d="M40 48 L70 24 L100 48" fill="none" stroke="#15803d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-        <rect x="52" y="48" width="36" height="30" rx="3" fill="#0a3d5e"/>
-        <rect x="63" y="60" width="14" height="18" fill="#ffffff"/>
-        <text x="116" y="52" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#0a3d5e">Property</text>
-        <text x="116" y="80" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#15803d">Cash Relief</text>
-      </svg>
+    <div class="head-top">
+      <div class="logo">
+        <svg viewBox="0 0 320 100" width="230" height="72" role="img" aria-label="Property Cash Relief">
+          <path d="M40 48 L70 24 L100 48" fill="none" stroke="#15803d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+          <rect x="52" y="48" width="36" height="30" rx="3" fill="#0a3d5e"/>
+          <rect x="63" y="60" width="14" height="18" fill="#ffffff"/>
+          <text x="116" y="52" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#0a3d5e">Property</text>
+          <text x="116" y="80" font-family="Georgia,'Times New Roman',serif" font-size="26" font-weight="700" fill="#15803d">Cash Relief</text>
+        </svg>
+      </div>
+      <div class="wa-top">
+        <a class="wa-btn" href="https://wa.me/19546434831?text=Hi%21%20I%20saw%20the%20South%20Florida%20deals%20on%20Property%20Cash%20Relief%20and%20I%27d%20like%20to%20know%20more." target="_blank" rel="noopener"><span class="wa-ico">&#128172;</span> Chat on WhatsApp</a>
+        <img class="wa-qr" src="images/whatsapp-qr.png" alt="Scan to chat on WhatsApp" width="92" height="92">
+        <span class="wa-scan">scan to chat</span>
+      </div>
     </div>
     <p class="tag">Off-Market Deals. Cash Fast. No Hassle.</p>
     <p class="contact">Text/Call &nbsp;954-643-4831 &nbsp;&middot;&nbsp; <a href="mailto:info@propertycashrelief.net">info@propertycashrelief.net</a></p>
@@ -82,15 +90,6 @@
     <h2>Join our Cash Buyers List</h2>
     <p>Get South Florida off-market deals in your inbox every day. Free.</p>
     <iframe title="Cash Buyers signup" src="https://3027573a.sibforms.com/v2/serve/MUIFAD1E4DT539S8Rfq4eEM7-ju6GAjYIpBMP_c0QOyyif2EJb4qn-auXOwQllEUAYjP0jUfy_yZGFkkyB0cCo-ilc8GGfLlpgNDH21AaisfhBjT3WfHEs8SMVQQF2fBaHCZ-iW1mR4P0HggbCLiyrq_IBdHTENEA-Zq1mTJssU8OqLNNopCDCcDDYPfOm3eqzGQ8n9TkOnb6aP-1g==" width="100%" height="340" frameborder="0" scrolling="auto" allowfullscreen style="display:block;border:0;border-radius:10px;max-width:480px;margin:8px auto 0;background:#fff;"></iframe>
-  </div>
-
-  <div class="whatsapp">
-    <div class="wa-badge">&#128172; WHATSAPP</div>
-    <h2>Chat with us instantly</h2>
-    <p>Interested in a deal? Send your name and the property address &mdash; we get right back to you.</p>
-    <a class="wa-btn" href="https://wa.me/19546434831?text=Hi%21%20I%20saw%20the%20South%20Florida%20deals%20on%20Property%20Cash%20Relief%20and%20I%27d%20like%20to%20know%20more." target="_blank" rel="noopener">Chat on WhatsApp &rarr;</a>
-    <img class="wa-qr" src="images/whatsapp-qr.png" alt="Scan to chat on WhatsApp" width="150" height="150">
-    <div class="wa-scan">or scan the QR</div>
   </div>
 
   <div class="banner">SOUTH FLORIDA WHOLESALE DEALS</div>
