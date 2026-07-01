@@ -25,6 +25,9 @@
   .terms{margin-top:6px;color:var(--brand2);font-size:13px;font-weight:600}
   .banner{background:var(--ink);color:#fff;text-align:center;font-weight:800;letter-spacing:.5px;padding:12px;font-size:16px}
   .county{background:#eef2f4;color:var(--brand2);border-top:3px solid var(--brand);padding:11px 24px;font-weight:800;letter-spacing:1px;font-size:15px}
+  .langbar{display:flex;justify-content:flex-end;gap:4px;padding:6px 16px 2px;background:var(--card)}
+  .langbar button{background:none;border:0;color:var(--muted);font-size:12px;font-weight:700;cursor:pointer;padding:3px 8px;border-radius:6px;letter-spacing:.5px}
+  .langbar button.on{background:var(--brand2);color:#fff}
   .head-top{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:6px}
   .head-top .logo svg{width:320px;height:auto;max-width:72vw}
   .wa-top{display:flex;flex-direction:column;align-items:center;gap:6px}
@@ -62,6 +65,11 @@
 <body>
 <div class="wrap">
   <div class="top"></div>
+  <div class="langbar">
+    <button data-lang="en" class="on">EN</button>
+    <button data-lang="es">ES</button>
+    <button data-lang="pt">PT</button>
+  </div>
   <div class="head">
     <div class="head-top">
       <div class="logo">
@@ -74,25 +82,25 @@
         </svg>
       </div>
       <div class="wa-top">
-        <a class="wa-btn" href="https://wa.me/19546434831?text=Hi%21%20I%20saw%20the%20South%20Florida%20deals%20on%20Property%20Cash%20Relief%20and%20I%27d%20like%20to%20know%20more." target="_blank" rel="noopener"><span class="wa-ico">&#128172;</span> Chat on WhatsApp</a>
+        <a class="wa-btn" href="https://wa.me/19546434831?text=Hi%21%20I%20saw%20the%20South%20Florida%20deals%20on%20Property%20Cash%20Relief%20and%20I%27d%20like%20to%20know%20more." target="_blank" rel="noopener"><span class="wa-ico">&#128172;</span> <span data-i18n="wa">Chat on WhatsApp</span></a>
         <img class="wa-qr" src="images/whatsapp-qr.png" alt="Scan to chat on WhatsApp" width="92" height="92">
-        <span class="wa-scan">scan to chat</span>
+        <span class="wa-scan" data-i18n="scan">scan to chat</span>
       </div>
     </div>
-    <p class="tag">Off-Market Deals. Cash Fast. No Hassle.</p>
+    <p class="tag" data-i18n="tag">Off-Market Deals. Cash Fast. No Hassle.</p>
     <p class="contact">Text/Call &nbsp;954-643-4831 &nbsp;&middot;&nbsp; <a href="mailto:info@propertycashrelief.net">info@propertycashrelief.net</a></p>
     <p class="contact"><a href="https://propertycashrelief.net">propertycashrelief.net</a></p>
-    <p class="terms">Cash or Hard Money / Private Money Deals &nbsp;&middot;&nbsp; Realtors, please add your commission</p>
+    <p class="terms" data-i18n="terms">Cash or Hard Money / Private Money Deals &middot; Realtors, please add your commission</p>
   </div>
 
 
   <div class="signup">
-    <h2>Join our Cash Buyers List</h2>
-    <p>Get South Florida off-market deals in your inbox every day. Free.</p>
+    <h2 data-i18n="sh">Join our Cash Buyers List</h2>
+    <p data-i18n="sp">Get South Florida off-market deals in your inbox every day. Free.</p>
     <iframe title="Cash Buyers signup" src="https://3027573a.sibforms.com/v2/serve/MUIFAD1E4DT539S8Rfq4eEM7-ju6GAjYIpBMP_c0QOyyif2EJb4qn-auXOwQllEUAYjP0jUfy_yZGFkkyB0cCo-ilc8GGfLlpgNDH21AaisfhBjT3WfHEs8SMVQQF2fBaHCZ-iW1mR4P0HggbCLiyrq_IBdHTENEA-Zq1mTJssU8OqLNNopCDCcDDYPfOm3eqzGQ8n9TkOnb6aP-1g==" width="100%" height="340" frameborder="0" scrolling="auto" allowfullscreen style="display:block;border:0;border-radius:10px;max-width:480px;margin:8px auto 0;background:#fff;"></iframe>
   </div>
 
-  <div class="banner">SOUTH FLORIDA WHOLESALE DEALS</div>
+  <div class="banner" data-i18n="banner">SOUTH FLORIDA WHOLESALE DEALS</div>
 
   <div id="deals"></div>
 
@@ -138,35 +146,56 @@ function priceOf(d){
   return d.ask;
 }
 const phone = "954-643-4831";
+
+/* ===== Idiomas (EN padrão · ES · PT) ===== */
+const I18N = {
+  en:{tag:"Off-Market Deals. Cash Fast. No Hassle.",terms:"Cash or Hard Money / Private Money Deals · Realtors, please add your commission",wa:"Chat on WhatsApp",scan:"scan to chat",sh:"Join our Cash Buyers List",sp:"Get South Florida off-market deals in your inbox every day. Free.",banner:"SOUTH FLORIDA WHOLESALE DEALS",county:"COUNTY",deal:"DEAL",deals:"DEALS",asking:"Asking",call:"Text / Call",photo:"Property photo",updating:"Updating deals…"},
+  es:{tag:"Ofertas Fuera de Mercado. Efectivo Rápido. Sin Complicaciones.",terms:"Ofertas en Efectivo o Hard/Private Money · Agentes, agreguen su comisión",wa:"Chatea por WhatsApp",scan:"escanea para chatear",sh:"Únete a nuestra lista de compradores",sp:"Recibe ofertas fuera de mercado del Sur de Florida en tu correo cada día. Gratis.",banner:"OFERTAS MAYORISTAS DEL SUR DE FLORIDA",county:"CONDADO",deal:"OFERTA",deals:"OFERTAS",asking:"Precio",call:"Texto / Llamar",photo:"Foto de la propiedad",updating:"Actualizando ofertas…"},
+  pt:{tag:"Ofertas Fora do Mercado. Dinheiro Rápido. Sem Complicação.",terms:"Ofertas à Vista ou Hard/Private Money · Corretores, adicionem sua comissão",wa:"Fale no WhatsApp",scan:"escaneie para conversar",sh:"Entre na nossa lista de compradores",sp:"Receba ofertas fora do mercado do Sul da Flórida no seu e-mail todo dia. Grátis.",banner:"OFERTAS ATACADO DO SUL DA FLÓRIDA",county:"CONDADO",deal:"OFERTA",deals:"OFERTAS",asking:"Preço",call:"Mensagem / Ligar",photo:"Foto do imóvel",updating:"Atualizando ofertas…"}
+};
+let LANG = (localStorage.getItem('pcrlang') || 'en'); if(!I18N[LANG]) LANG='en';
+let DEALS_CACHE = [];
+
 function card(d){
-  const price = priceOf(d);
-  const specs = (d.specs||[]).map(s => "<li>"+s+"</li>").join("");
-  const arv = d.arv ? '<li class="arv">ARV $'+d.arv+'</li>' : '';
-  const img = d.img ? 'style="background-image:url('+d.img+')"' : '';
+  const t=I18N[LANG], price=priceOf(d);
+  const specs=(d.specs||[]).map(s=>"<li>"+s+"</li>").join("");
+  const arv=d.arv?'<li class="arv">ARV $'+d.arv+'</li>':'';
+  const img=d.img?'style="background-image:url('+d.img+')"':'';
   return `<div class="deal">
     <p class="addr">${d.addr}</p>
-    <div class="photo" ${img}>${d.img?'':'Foto do imóvel'}</div>
+    <div class="photo" ${img}>${d.img?'':t.photo}</div>
     <ul class="specs">${specs}${arv}</ul>
     <div class="pricerow">
-      <div class="price">Asking ${usd(price)}</div>
-      <a class="cta" href="tel:+19546434831">Text / Call ${phone}</a>
+      <div class="price">${t.asking} ${usd(price)}</div>
+      <a class="cta" href="tel:+19546434831">${t.call} ${phone}</a>
       <div class="rule"></div>
     </div>
   </div>`;
 }
-function render(DEALS){
-  const groups = {};
-  DEALS.forEach(d => { const c = d.county||"Outros"; (groups[c]=groups[c]||[]).push(d); });
-  let html = "";
-  for (const county in groups){
-    const ds = groups[county];
-    html += `<div class="county">${county.toUpperCase()} COUNTY &middot; ${ds.length} ${ds.length==1?'DEAL':'DEALS'}</div>`;
+function renderDeals(){
+  const t=I18N[LANG], groups={};
+  DEALS_CACHE.forEach(d=>{const c=d.county||"Other";(groups[c]=groups[c]||[]).push(d);});
+  let html="";
+  for(const county in groups){
+    const ds=groups[county], name=county.toUpperCase();
+    const head = LANG==='en' ? name+' '+t.county : t.county+' '+name;
+    html += `<div class="county">${head} &middot; ${ds.length} ${ds.length==1?t.deal:t.deals}</div>`;
     html += ds.map(card).join("");
   }
-  document.getElementById("deals").innerHTML = html;
+  document.getElementById("deals").innerHTML = html || `<p style="text-align:center;padding:24px;color:#8a979c">${t.updating}</p>`;
 }
-fetch("./deals.json").then(r=>r.json()).then(render)
-  .catch(()=>{ document.getElementById("deals").innerHTML='<p style="text-align:center;padding:24px;color:#8a979c">Deals em atualização…</p>'; });
+function setLang(l){
+  if(!I18N[l]) l='en';
+  LANG=l; try{localStorage.setItem('pcrlang',l);}catch(e){}
+  const t=I18N[l];
+  document.querySelectorAll('[data-i18n]').forEach(el=>{const k=el.getAttribute('data-i18n'); if(t[k]!=null) el.textContent=t[k];});
+  document.querySelectorAll('.langbar button').forEach(b=>b.classList.toggle('on', b.getAttribute('data-lang')===l));
+  document.documentElement.lang=l;
+  renderDeals();
+}
+document.querySelectorAll('.langbar button').forEach(b=>b.addEventListener('click',()=>setLang(b.getAttribute('data-lang'))));
+setLang(LANG);
+fetch("./deals.json").then(r=>r.json()).then(d=>{DEALS_CACHE=d; renderDeals();}).catch(()=>renderDeals());
 </script>
 </body>
 </html>
