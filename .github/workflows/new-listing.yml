@@ -1,0 +1,36 @@
+name: New Listing Alert
+on:
+  # Dispara sempre que o coletor empurra um deals.json novo (casas novas no site).
+  push:
+    branches: [main]
+    paths:
+      - 'deals.json'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: new-listing
+  cancel-in-progress: false
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Send "just added" alert for new deals
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: python send_new.py
+      - name: Persist sent state
+        run: |
+          if [ -n "$(git status --porcelain sent_keys.json)" ]; then
+            git config user.name  "pcr-bot"
+            git config user.email "bot@propertycashrelief.net"
+            git add sent_keys.json
+            git commit -m "chore: update sent_keys [skip ci]"
+            git push
+          else
+            echo "sent_keys.json sem mudanca"
+          fi
