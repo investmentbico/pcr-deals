@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '34 11 * * *'   # ~7:34 AM America/New_York (EDT) — minuto fora de pico
     - cron: '9 17 * * *'    # ~1:09 PM America/New_York (EDT) — minuto fora de pico
+    - cron: '29 17 * * *'   # TEMP teste 2026-07-02 (~1:29 PM ET) — REMOVER depois
   workflow_dispatch: {}      # permite rodar manual pelo botao do GitHub
 jobs:
   send:
