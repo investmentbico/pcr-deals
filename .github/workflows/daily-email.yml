@@ -1,9 +1,8 @@
 name: Daily Cash Buyers Email
 on:
-  schedule:
-    - cron: '34 11 * * *'   # ~7:34 AM America/New_York (EDT) — minuto fora de pico
-    - cron: '9 17 * * *'    # ~1:09 PM America/New_York (EDT) — minuto fora de pico
-  workflow_dispatch: {}      # permite rodar manual pelo botao do GitHub
+  # Disparado pelo cron-job.org (confiavel, fuso America/New_York) via workflow_dispatch.
+  # O cron interno do GitHub foi removido (era instavel/atrasava).
+  workflow_dispatch: {}
 jobs:
   send:
     runs-on: ubuntu-latest
