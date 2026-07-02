@@ -1,8 +1,8 @@
 name: Daily Cash Buyers Email
 on:
   schedule:
-    - cron: '30 11 * * *'   # 7:30 AM America/New_York (EDT)
-    - cron: '0 17 * * *'    # 1:00 PM America/New_York (EDT)
+    - cron: '34 11 * * *'   # ~7:34 AM America/New_York (EDT) — minuto fora de pico
+    - cron: '9 17 * * *'    # ~1:09 PM America/New_York (EDT) — minuto fora de pico
   workflow_dispatch: {}      # permite rodar manual pelo botao do GitHub
 jobs:
   send:
