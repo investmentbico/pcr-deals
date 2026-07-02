@@ -79,7 +79,6 @@ def build(deals):
 </table></td></tr></table></body></html>"""
 
 def main():
-    print(f"[debug] BREVO_API_KEY length={len(API)} prefix={API[:8]!r}")
     if not API: print("BREVO_API_KEY ausente"); return
     here=os.path.dirname(os.path.abspath(__file__))
     deals=json.load(open(os.path.join(here,"deals.json"), encoding="utf-8"))
