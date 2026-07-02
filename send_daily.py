@@ -89,7 +89,8 @@ def main():
     for em in emails:
         try:
             brevo("smtp/email", {"sender":{"name":NAME,"email":SENDER},"to":[{"email":em}],
-                                 "subject":subject,"htmlContent":html,"tags":["cash-buyers-daily"]}, "POST"); ok+=1
+                                 "subject":subject,"htmlContent":html,"tags":["cash-buyers-daily"],
+                                 "headers":{"List-Unsubscribe":"<mailto:info@propertycashrelief.net?subject=Unsubscribe>"}}, "POST"); ok+=1
         except Exception as e: print("falhou",em,e)
     print(f"Enviado {ok}/{len(emails)} cash buyers | {len(deals)} deals | email {len(html)} bytes")
 

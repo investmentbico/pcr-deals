@@ -124,7 +124,8 @@ def main():
         for em in emails:
             try:
                 brevo("smtp/email", {"sender":{"name":NAME,"email":SENDER},"to":[{"email":em}],
-                                     "subject":subject,"htmlContent":html,"tags":["new-listings-alert"]}, "POST"); ok+=1
+                                     "subject":subject,"htmlContent":html,"tags":["new-listings-alert"],
+                                     "headers":{"List-Unsubscribe":"<mailto:info@propertycashrelief.net?subject=Unsubscribe>"}}, "POST"); ok+=1
             except Exception as e: print("falhou", em, e)
         print(f"Alerta de {n} casa(s) nova(s) enviado a {ok}/{len(emails)} cash buyers.")
 
