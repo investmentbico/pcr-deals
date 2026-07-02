@@ -453,6 +453,17 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/191-street-miami-gardens-fl-33169.jpg"
  },
  {
+  "addr": "290 NW 191st St, Miami Gardens, FL 33169",
+  "city": "Miami",
+  "county": "Miami-Dade",
+  "wholesale": 409900,
+  "arv": "",
+  "specs": [],
+  "source": "Investorlift",
+  "ask": 434900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/290-nw-191st-st-miami-gardens-fl-33169.jpg"
+ },
+ {
   "addr": "1498 Ne 180th St, North Miami Beach, Fl 33162",
   "city": "North Miami Beach",
   "county": "Miami-Dade",
@@ -940,6 +951,19 @@
   "source": "Jonathan",
   "ask": 440900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/508-sw-8th-st-hallandale-beach-fl-33009.jpg"
+ },
+ {
+  "addr": "Coral Springs, FL 33065",
+  "city": "Coral Springs",
+  "county": "Broward",
+  "wholesale": 415000,
+  "arv": "54k",
+  "specs": [
+   "3 Bed / 2 Bath · 1820 Sq Ft"
+  ],
+  "source": "Investorlift",
+  "ask": 440000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/coral-springs-fl-33065.jpg"
  },
  {
   "addr": "101, Hallandale Beach, Fl 33009",
