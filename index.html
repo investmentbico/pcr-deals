@@ -156,6 +156,12 @@ const I18N = {
 let LANG = (localStorage.getItem('pcrlang') || 'en'); if(!I18N[LANG]) LANG='en';
 let DEALS_CACHE = [];
 
+// Comunidades 55+/age-restricted não entram na lista de cash buyers (pedido do dono).
+function is55plus(d){
+  const txt = ((d.addr||"")+" "+((d.specs||[]).join(" "))).toLowerCase();
+  return /55\s*\+|55\s*plus|55\s*(and|&|e)\s*(older|up)|over\s*55|age[\s-]*restrict|adult\s*community|senior\s*community|active\s*adult/.test(txt);
+}
+
 function card(d){
   const t=I18N[LANG], price=priceOf(d);
   const specs=(d.specs||[]).map(s=>"<li>"+s+"</li>").join("");
@@ -195,7 +201,7 @@ function setLang(l){
 }
 document.querySelectorAll('.langbar button').forEach(b=>b.addEventListener('click',()=>setLang(b.getAttribute('data-lang'))));
 setLang(LANG);
-fetch("./deals.json").then(r=>r.json()).then(d=>{DEALS_CACHE=d; renderDeals();}).catch(()=>renderDeals());
+fetch("./deals.json").then(r=>r.json()).then(d=>{DEALS_CACHE=(d||[]).filter(x=>!is55plus(x)); renderDeals();}).catch(()=>renderDeals());
 </script>
 </body>
 </html>
