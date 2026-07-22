@@ -1,0 +1,39 @@
+name: Collect Fresh Deals
+on:
+  schedule:
+    # 3x/dia (UTC). ET = UTC-4 no verão: 7:20, 12:20, 18:20 ET aprox.
+    - cron: '20 11 * * *'
+    - cron: '20 16 * * *'
+    - cron: '20 22 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: collect
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: pip install --quiet pillow
+      - name: Collect wholesaler deals
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+        run: python cloud_collect.py
+      - name: Publish deals + photos
+        run: |
+          if [ -n "$(git status --porcelain deals.json images)" ]; then
+            git config user.name  "pcr-bot"
+            git config user.email "bot@propertycashrelief.net"
+            git add deals.json images
+            git commit -m "auto-collect deals $(date -u +%F\ %H:%M)"
+            git push
+          else
+            echo "sem mudanca na lista"
+          fi
