@@ -20,7 +20,7 @@ PY = sys.executable or "python3"
 
 SENDERS = ["sharkinvestorproperties", "howtofliphousesinmiami", "jefinancial",
            "investorlift", "beau.roberts"]
-DAYS = int(os.environ.get("COLLECT_DAYS", "4"))
+DAYS = int(os.environ.get("COLLECT_DAYS", "21"))
 MIN_DEALS = 25
 
 def dec(s):
