@@ -7234,6 +7234,17 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/port-charlotte-fl-33948.jpg"
  },
  {
+  "addr": "429 Lone Heron Way, Winter Garden, FL 34787",
+  "city": "Winter Haven",
+  "county": "Polk",
+  "wholesale": 199000,
+  "arv": "285k",
+  "specs": [],
+  "source": "Investorlift",
+  "ask": 224000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/429-lone-heron-way-winter-garden-fl-34787.jpg"
+ },
+ {
   "addr": "1922 Matthew Ct, Lakeland, FL 33813",
   "city": "Lakeland",
   "county": "Polk",
@@ -7288,17 +7299,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/7022-dove-meadow-trl-lakeland-fl-33810.jpg"
  },
  {
-  "addr": "429 Lone Heron Way, Winter Garden, FL 34787",
-  "city": "Winter Haven",
-  "county": "Polk",
-  "wholesale": 199000,
-  "arv": "285k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 224000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/429-lone-heron-way-winter-garden-fl-34787.jpg"
- },
- {
   "addr": "768 31st Court NW, Winter Haven, FL 33881",
   "city": "Winter Haven",
   "county": "Polk",
@@ -7347,6 +7347,19 @@
   "source": "Shark",
   "ask": 279900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/2435-parkland-dr-lakeland-fl-33811.jpg"
+ },
+ {
+  "addr": "800 Lake Marion Drive, Altamonte Springs, FL 32701",
+  "city": "Altamonte Springs",
+  "county": "Outros",
+  "wholesale": 439900,
+  "arv": "59k",
+  "specs": [
+   "2 Bed / 3 Bath · 2,193 Sq Ft"
+  ],
+  "source": "Investorlift",
+  "ask": 464900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/800-lake-marion-drive-altamonte-springs-fl-32701.jpg"
  },
  {
   "addr": "Orange Park, FL 32073",
