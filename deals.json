@@ -294,625 +294,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/530-sw-5th-st-florida-city-fl-33034.jpg"
  },
  {
-  "addr": "xx Ne 181st St, North Miami Beach, Fl 33162",
-  "city": "North Miami Beach",
-  "county": "Miami-Dade",
-  "wholesale": 469900,
-  "arv": "640,000",
-  "specs": [
-   "3 Beds / 3 Baths (Public Record: 2/2), CBS, 1,434 Sq Ft",
-   "Impact Windows, Separate 1/1 Unit, Vacant At Closing",
-   "Roof 2015, A/C 2025"
-  ],
-  "source": "Shark",
-  "ask": 494900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xx-ne-181st-st-north-miami-beach-fl-33162.jpg"
- },
- {
-  "addr": "21705 Sw 99th Ave, Cutler Bay, Fl 33190",
-  "city": "Cutler Bay",
-  "county": "Miami-Dade",
-  "wholesale": 479900,
-  "arv": "735,000–$745,000",
-  "specs": [
-   "4 Beds / 2 Baths, CBS, 2,165 Sq Ft",
-   "Light Cosmetic Flip / Rental Opportunity",
-   "Roof, A/C, Electrical & Plumbing In Good Condition"
-  ],
-  "source": "Shark",
-  "ask": 504900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/21705-sw-99th-ave-cutler-bay-fl-33190.jpg"
- },
- {
-  "addr": "12477 Sw 195th St, Miami FL 33177",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 999900,
-  "arv": "2,300,000+",
-  "specs": [
-   "3 Beds / 2 Baths, 2,453 Sq Ft",
-   "Single Family Home, Development Opportunity, Clean Condition, Luxury",
-   "Potential Rent: $4,000+/Month"
-  ],
-  "source": "Shark",
-  "ask": 1029900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/12477-sw-195th-st-miami-fl-33177.jpg"
- },
- {
-  "addr": "xxx Sunset Dr, South Miami, Fl 33143",
-  "city": "South Miami",
-  "county": "Miami-Dade",
-  "wholesale": 1525000,
-  "arv": "2,100,000+",
-  "specs": [
-   "4 Beds / 2 Baths, CBS, 2,614 Sq Ft",
-   "Lot Size: 13,984 Sq Ft",
-   "Pool, Rehab, Development Opportunity, New Construction Value $6,000,000+"
-  ],
-  "source": "Shark",
-  "ask": 1615000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xxx-sunset-dr-south-miami-fl-33143.jpg"
- },
- {
-  "addr": "1122 Nw 38th St, Miami, Fl 33127",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 440000,
-  "arv": "570,000–$600,000",
-  "specs": [
-   "Single Family, 3 Beds / 2 Baths, 1,258 Sq Ft",
-   "Built 1926, Sold As-Is, Near Miami Design District, Closing 08/20",
-   "Concrete Block, 4 Beds / 2 Baths, 1,348 Sq Ft",
-   "Built 1950, Rehab 90% Complete, New Flooring, New Bathrooms, New Windows,",
-   "New A/C"
-  ],
-  "source": "Shark",
-  "ask": 465000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1122-nw-38th-st-miami-fl-33127.jpg"
- },
- {
-  "addr": "xxx Nw 112th St, Miami, Fl 33167",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 369900,
-  "arv": "550,000+",
-  "specs": [
-   "3 Beds / 2 Baths, 1,133 Sq Ft",
-   "5,967 Sq Ft Corner Lot, Open Door Permit",
-   "Impact Windows, Metal Roof (2 Years)"
-  ],
-  "source": "Shark",
-  "ask": 394900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xxx-nw-112th-st-miami-fl-33167.jpg"
- },
- {
-  "addr": "2511 Nw 24th St, Miami, Fl 33142",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 839900,
-  "arv": "",
-  "specs": [
-   "Multifamily (6 Units Configured), 3,601 Sq Ft",
-   "Fully Tenant Occupied, $10,500/Month Income, 3 Electric & Water Meters,"
-  ],
-  "source": "Shark",
-  "ask": 869900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2511-nw-24th-st-miami-fl-33142.jpg"
- },
- {
-  "addr": "5901 Sw 62nd St, Miami FL 33143",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 850000,
-  "arv": "1,300,000+",
-  "specs": [
-   "Single Family Home, 4 Beds / 1 Bath, 1,688 Sq Ft",
-   "Clean Condition, Add 2nd Bathroom for Value, Hot Neighborhood, Potential"
-  ],
-  "source": "Shark",
-  "ask": 880000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5901-sw-62nd-st-miami-fl-33143.jpg"
- },
- {
-  "addr": "17201 Nw 57th Ave, Miami Gardens, Fl 33055",
-  "city": "Miami Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 449900,
-  "arv": "660,000",
-  "specs": [
-   "3 Beds / 1 Bath (Configured As 6 Beds / 4 Baths), 2,055 Sq Ft",
-   "Unpermitted Addition, Tenant Occupied",
-   "Roof 4 Years Old, A/C 6 Years Old"
-  ],
-  "source": "Shark",
-  "ask": 474900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/17201-nw-57th-ave-miami-gardens-fl-33055.jpg"
- },
- {
-  "addr": "113 Terr, Miami, Fl 33167",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 334500,
-  "arv": "",
-  "specs": [
-   "4 Beds / 2 Baths, 1,475 Sq Ft",
-   "Fix & Flip Opportunity, Granite Countertops, Buyer Assumes Contents",
-   "Newer Electrical, Newer Water Heater"
-  ],
-  "source": "Shark",
-  "ask": 359500,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/113-terr-miami-fl-33167.jpg"
- },
- {
-  "addr": "8140 Nw 14th Pl, Miami, Fl 33147",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 315000,
-  "arv": "",
-  "specs": [
-   "CBS, 2 Beds / 1 Bath (Configured As 3 Beds / 2 Baths), 1,193 Sq Ft",
-   "Double Lot, Unpermitted Addition, Buyer Assumes Liens, Permits &"
-  ],
-  "source": "Shark",
-  "ask": 340000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/8140-nw-14th-pl-miami-fl-33147.jpg"
- },
- {
-  "addr": "xxx Nw 12th Ave, North Miami, Fl 33168",
-  "city": "North Miami",
-  "county": "Miami-Dade",
-  "wholesale": 445000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 2 Baths, 1,733 Sq Ft",
-   "Needs Updates"
-  ],
-  "source": "Shark",
-  "ask": 470000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xxx-nw-12th-ave-north-miami-fl-33168.jpg"
- },
- {
-  "addr": "21105 Nw Miami Ct, Miami Gardens, Fl 33169",
-  "city": "Miami Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 479900,
-  "arv": "675,000",
-  "specs": [
-   "3 Beds / 2 Baths, 1,666 Sq Ft",
-   "Pool, Garage"
-  ],
-  "source": "Shark",
-  "ask": 504900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/21105-nw-miami-ct-miami-gardens-fl-33169.jpg"
- },
- {
-  "addr": "265 Nw 80th St, Miami, Fl 33150",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 189900,
-  "arv": "350,000+",
-  "specs": [
-   "Single Family, 2 Beds / 1 Bath, 858 Sq Ft",
-   "Outdated, Liens & Violations, Tenant Paying $2,300/Month (Lease Through"
-  ],
-  "source": "Shark",
-  "ask": 214900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/265-nw-80th-st-miami-fl-33150.jpg"
- },
- {
-  "addr": "280 Nw 34th St, Miami, Fl 33127",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 850000,
-  "arv": "1,000,000–$1,200,000",
-  "specs": [
-   "Duplex (2 × 2 Beds / 1 Bath), CBS, 1,798 Sq Ft",
-   "Updated Kitchens & Baths, 2 Electric Meters, 2 Water Meters, Vacant At",
-   "Brand New Roof (2025)"
-  ],
-  "source": "Shark",
-  "ask": 880000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/280-nw-34th-st-miami-fl-33127.jpg"
- },
- {
-  "addr": "2417 Fogarty Ave, Key West, Fl 33040",
-  "city": "Key West",
-  "county": "Miami-Dade",
-  "wholesale": 997000,
-  "arv": "1,600,000",
-  "specs": [
-   "Block Construction, 4 Beds / 3 Baths, 1,620 Sq Ft",
-   "Vacant At Closing, Needs Cosmetic Updates"
-  ],
-  "source": "Shark",
-  "ask": 1027000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2417-fogarty-ave-key-west-fl-33040.jpg"
- },
- {
-  "addr": "59 Flagami Blvd, Miami, Fl 33144",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 579900,
-  "arv": "800,000",
-  "specs": [
-   "Single-Family Home (Set Up As Triplex), 4 Beds / 2 Baths, 2,357 Sq Ft",
-   "Flagami Area, Vacant At Closing"
-  ],
-  "source": "Shark",
-  "ask": 604900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/59-flagami-blvd-miami-fl-33144.jpg"
- },
- {
-  "addr": "1280 Nw 51st St, Miami, Fl 33142",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 345000,
-  "arv": "580,000",
-  "specs": [
-   "2 Beds / 1 Bath, 1,200 Sq Ft",
-   "Value-Add Opportunity"
-  ],
-  "source": "Shark",
-  "ask": 370000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1280-nw-51st-st-miami-fl-33142.jpg"
- },
- {
-  "addr": "8200 Sw 210th St, Cutler Bay, FL 33189",
-  "city": "Cutler Bay",
-  "county": "Miami-Dade",
-  "wholesale": 149900,
-  "arv": "",
-  "specs": [
-   "Condo, 1 Bed / 1 Bath, 760 Sq Ft",
-   "Built 1988, Estimated Rent: $1,600/Month, Buy & Hold Opportunity, Strong",
-   "HOA: $534/Month"
-  ],
-  "source": "Shark",
-  "ask": 174900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/8200-sw-210th-st-cutler-bay-fl-33189.jpg"
- },
- {
-  "addr": "621 Nw 185th St, Miami Gardens, Fl 33169",
-  "city": "Miami Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 445000,
-  "arv": "",
-  "specs": [
-   "CBS Construction, 2 Beds / 1 Bath, 720 Sq Ft",
-   "Built 1956"
-  ],
-  "source": "Shark",
-  "ask": 470000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/621-nw-185th-st-miami-gardens-fl-33169.jpg"
- },
- {
-  "addr": "xx Sw Xrd Ave, Homestead, Fl 33030",
-  "city": "Homestead",
-  "county": "Miami-Dade",
-  "wholesale": 209900,
-  "arv": "",
-  "specs": [
-   "2 Beds / 1 Bath, 600 Sq Ft",
-   "Vacant At Closing"
-  ],
-  "source": "Shark",
-  "ask": 234900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xx-sw-xrd-ave-homestead-fl-33030.jpg"
- },
- {
-  "addr": "180 Terrace, Miami Gardens, FL 33055",
-  "city": "Miami Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 417500,
-  "arv": "",
-  "specs": [
-   "4 Beds / 2 Baths, 1,564 Sq Ft",
-   "Updated Kitchen, Stainless Steel Appliances, Remodeled Bathrooms, Fenced"
-  ],
-  "source": "Shark",
-  "ask": 442500,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/180-terrace-miami-gardens-fl-33055.jpg"
- },
- {
-  "addr": "2627 NW 25th Ave, Miami, FL 33142",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 365000,
-  "arv": "540,000–$550,000",
-  "specs": [
-   "Single Family Home, 3 Beds / 2 Baths, 1,143 Sq Ft",
-   "Built 1941, Tenant Occupied (Estimated Rent $3,000/Month), Cosmetic Rehab"
-  ],
-  "source": "Shark",
-  "ask": 390000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2627-nw-25th-ave-miami-fl-33142.jpg"
- },
- {
-  "addr": "6880 NW 14th Ave, Miami, FL 33147",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 340000,
-  "arv": "",
-  "specs": [
-   "8 Beds / 3 Baths",
-   "1,527 Sq Ft",
-   "Lot Size: 4,320 Sq Ft",
-   "Year Built: 1936",
-   "Coin Laundry Generating Income",
-   "Vacant (Option To Keep Current Tenants)",
-   "4 Rooms Currently Occupied",
-   "Roof 2016",
-   "Window A/C Units",
-   "Sewer"
-  ],
-  "source": "Shark",
-  "ask": 365000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6880-nw-14th-ave-miami-fl-33147.jpg"
- },
- {
-  "addr": "4621 NW 15th Ave, Miami, FL 33142",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 299000,
-  "arv": "550,000",
-  "specs": [
-   "Duplex",
-   "2 Units (1 Bed / 1 Bath Each)",
-   "1,332 Sq Ft",
-   "Lot Size: 5,548 Sq Ft",
-   "Built 1947",
-   "New Roof (2021–2022)",
-   "Tenant Occupied",
-   "Open Permit / Violation To Assume"
-  ],
-  "source": "Shark",
-  "ask": 324000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/4621-nw-15th-ave-miami-fl-33142.jpg"
- },
- {
-  "addr": "28620 Sw 143rd Ct, Homestead, Fl 33033",
-  "city": "Homestead",
-  "county": "Miami-Dade",
-  "wholesale": 250000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 1 Bath, 868 Sq Ft",
-   "Vacant At Closing, Rehab Needed",
-   "Buyer Assumes Violation & Lien"
-  ],
-  "source": "Shark",
-  "ask": 275000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/28620-sw-143rd-ct-homestead-fl-33033.jpg"
- },
- {
-  "addr": "10 NE 50th Ter, Miami, FL 33137",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 900000,
-  "arv": "1,200,000",
-  "specs": [
-   "3 Beds / 2 Baths, 1,331 Sq Ft",
-   "Prime Miami Location"
-  ],
-  "source": "Shark",
-  "ask": 930000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/10-ne-50th-ter-miami-fl-33137.jpg"
- },
- {
-  "addr": "134 Florida Ave, Coral Gables, FL 33133",
-  "city": "Coral Gables",
-  "county": "Miami-Dade",
-  "wholesale": 470000,
-  "arv": "",
-  "specs": [
-   "2 Beds / 1 Bath, 756 Sq Ft",
-   "Single Family Home, Historic District, Development Opportunity"
-  ],
-  "source": "Shark",
-  "ask": 495000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/134-florida-ave-coral-gables-fl-33133.jpg"
- },
- {
-  "addr": "xxxx Sw 295th St, Homestead, Fl 33030",
-  "city": "Homestead",
-  "county": "Miami-Dade",
-  "wholesale": 725000,
-  "arv": "1,050,000+",
-  "specs": [
-   "5 Beds / 3 Baths, CBS, 3,511 Sq Ft",
-   "Pool"
-  ],
-  "source": "Shark",
-  "ask": 750000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xxxx-sw-295th-st-homestead-fl-33030.jpg"
- },
- {
-  "addr": "Xxx Navarre Ave, Coral Gables, Fl 33134",
-  "city": "Coral Gables",
-  "county": "Miami-Dade",
-  "wholesale": 929000,
-  "arv": "",
-  "specs": [
-   "2 Beds / 2.5 Baths, 1,431 Sq Ft",
-   "Potential 3rd Bedroom",
-   "Detached Carport",
-   "Open Demo Permit"
-  ],
-  "source": "Shark",
-  "ask": 959000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xxx-navarre-ave-coral-gables-fl-33134.jpg"
- },
- {
-  "addr": "2104 Nw 1st Ter, Miami, Fl 33125",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 429000,
-  "arv": "625,000",
-  "specs": [
-   "Duplex (3 Beds / 1 Bath + Independent Efficiency), T3-O Zoning, 985 Sq Ft",
-   "Vacant, Cosmetic Updates Needed",
-   "Roof 2 Years Old, Newer A/C"
-  ],
-  "source": "Shark",
-  "ask": 454000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2104-nw-1st-ter-miami-fl-33125.jpg"
- },
- {
-  "addr": "13499 Biscayne Blvd PH1708, North Miami, FL 33181",
-  "city": "North Miami",
-  "county": "Miami-Dade",
-  "wholesale": 124900,
-  "arv": "175,000–$200,000",
-  "specs": [
-   "Penthouse Condo, 2 beds / 2 baths, 1,000 Sq Ft",
-   "HOA: $1,561.73/Month (Includes Special Assessment), Tenant Occupied",
-   "A/C: 5 Years Old"
-  ],
-  "source": "Shark",
-  "ask": 149900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/13499-biscayne-blvd-ph1708-north-miami-fl-33181.jpg"
- },
- {
-  "addr": "xx Ne 8x St, Miami, Fl 33138",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 510000,
-  "arv": "730,000+",
-  "specs": [
-   "2 Beds / 1 Bath, 924 Sq Ft",
-   "Full Rehab, Addition Potential"
-  ],
-  "source": "Shark",
-  "ask": 535000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xx-ne-8x-st-miami-fl-33138.jpg"
- },
- {
-  "addr": "1100 Ne 110th St, Miami, Fl 33161",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 690000,
-  "arv": "1,000,000",
-  "specs": [
-   "2 Beds / 2 Baths, 1,817 Sq Ft",
-   "Pool Home"
-  ],
-  "source": "Shark",
-  "ask": 715000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1100-ne-110th-st-miami-fl-33161.jpg"
- },
- {
-  "addr": "551 Nw 45th St, Miami, Fl 33127",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 695000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 2 Baths, 1,648 Sq Ft",
-   "Development Opportunity, Tenant Occupied ($2,000/Mo Month-To-Month)"
-  ],
-  "source": "Shark",
-  "ask": 720000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/551-nw-45th-st-miami-fl-33127.jpg"
- },
- {
-  "addr": "2262 Nw 4th St, Miami, Fl 33125",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 615000,
-  "arv": "915,000+",
-  "specs": [
-   "Duplex Operating As 4-Plex, 6 Beds / 4 Baths, 2,802 Sq Ft",
-   "Delivered Vacant, Potential Rent $7,500/Month, Little Havana"
-  ],
-  "source": "Shark",
-  "ask": 640000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2262-nw-4th-st-miami-fl-33125.jpg"
- },
- {
-  "addr": "1268 Nw 5th St, Miami, Fl 33125",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 589900,
-  "arv": "2,000,000",
-  "specs": [
-   "Duplex / Develop",
-   "T5-L Zoning, Up To 4 Multifamily Units (Buyer To Verify), Teardown"
-  ],
-  "source": "Shark",
-  "ask": 614900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1268-nw-5th-st-miami-fl-33125.jpg"
- },
- {
-  "addr": "2821 Sw 65th Ave, Miami, Fl 33155",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 819900,
-  "arv": "1,300,000",
-  "specs": [
-   "4 Beds / 3 Baths, 1,880 Sq Ft",
-   "Potential Rent $7,200/Month",
-   "Roof 2017, A/C 2018"
-  ],
-  "source": "Shark",
-  "ask": 849900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2821-sw-65th-ave-miami-fl-33155.jpg"
- },
- {
-  "addr": "1511 Ne 11th St, Homestead, Fl 33033",
-  "city": "Homestead",
-  "county": "Miami-Dade",
-  "wholesale": 340000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 1 Bath, 1,748 Sq Ft",
-   "Garage, More Living Space Than Tax Roll, Large Lot, Great Investment"
-  ],
-  "source": "Shark",
-  "ask": 365000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1511-ne-11th-st-homestead-fl-33033.jpg"
- },
- {
-  "addr": "xx Nw 48th St, Miami, Fl 33142",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 500000,
-  "arv": "1,300,000",
-  "specs": [
-   "Duplex Zoning, Church Structure, 1,835 Sq Ft",
-   "Redevelopment Opportunity, Duplex Development Potential"
-  ],
-  "source": "Shark",
-  "ask": 525000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xx-nw-48th-st-miami-fl-33142.jpg"
- },
- {
-  "addr": "Xxxx Nw 50th St, Miami, Fl 33127",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 429900,
-  "arv": "",
-  "specs": [
-   "2 Beds / 1 Bath, 1,116 Sq Ft",
-   "Investment Opportunity, Redevelopment Potential, Easy Conversion To 3/2"
-  ],
-  "source": "Shark",
-  "ask": 454900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xxxx-nw-50th-st-miami-fl-33127.jpg"
- },
- {
-  "addr": "2011 Nw 96th St, Miami, Fl 33147",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 299900,
-  "arv": "",
-  "specs": [
-   "2 Beds / 1 Bath, CBS, 890 Sq Ft"
-  ],
-  "source": "Shark",
-  "ask": 324900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2011-nw-96th-st-miami-fl-33147.jpg"
- },
- {
   "addr": "900 Guava Isle, Fort Lauderdale, Fl 33315",
   "city": "Fort Lauderdale",
   "county": "Broward",
@@ -928,21 +309,52 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/900-guava-isle-fort-lauderdale-fl-33315.jpg"
  },
  {
-  "addr": "701 Nw 21st Terrace, Fort Lauderdale, Fl 33311",
-  "city": "Fort Lauderdale",
+  "addr": "2155 Nw 184th Way, Pembroke Pines, Fl 33029",
+  "city": "Pembroke Pines",
   "county": "Broward",
-  "wholesale": 559000,
-  "arv": "700,000+",
+  "wholesale": 485000,
+  "arv": "600,000+",
   "specs": [
-   "Legal Triplex, 3 Units (2 Bed / 1 Bath Each), 1,722 Sq Ft",
-   "Separate Electric Meters",
-   "1 Updated Unit",
-   "2 Units Need Cosmetic Updates",
-   "Maintenance Violation To Assume"
+   "3 Beds / 2 Bath, 1,614 Sq Ft",
+   "2 Car Garage",
+   "Vacant, Light Rehab Needed, Excellent Condition"
   ],
   "source": "Shark",
-  "ask": 584000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/701-nw-21st-terrace-fort-lauderdale-fl-33311.jpg"
+  "ask": 510000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2155-nw-184th-way-pembroke-pines-fl-33029.jpg"
+ },
+ {
+  "addr": "7558 Nw 17th Dr, Pembroke Pines, Fl 33024",
+  "city": "Pembroke Pines",
+  "county": "Broward",
+  "wholesale": 535000,
+  "arv": "",
+  "specs": [
+   "3 Beds / 3 Bath, 1,938 Sq Ft",
+   "Hoa $345/Month",
+   "Needs Updates",
+   "30-Day Post-Closing Occupancy"
+  ],
+  "source": "Shark",
+  "ask": 560000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/7558-nw-17th-dr-pembroke-pines-fl-33024.jpg"
+ },
+ {
+  "addr": "633 Nw 15th Ave, Fort Lauderdale, Fl 33311",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 539900,
+  "arv": "",
+  "specs": [
+   "5-Unit Multi-Family, 2,570 Sq Ft",
+   "Rented",
+   "Outdated Condition",
+   "3 Electric Meters, 1 Water Meter",
+   "Buyer Assumes Violations"
+  ],
+  "source": "Shark",
+  "ask": 564900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/633-nw-15th-ave-fort-lauderdale-fl-33311.jpg"
  },
  {
   "addr": "6808 Merion Ct, Pompano Beach, Fl 33068",
@@ -988,21 +400,6 @@
   "source": "Shark",
   "ask": 829900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/1931-ne-27th-street-lighthouse-point-fl-33064.jpg"
- },
- {
-  "addr": "4321 Ne 15th Ter, Oakland Park, Fl 33334",
-  "city": "Oakland Park",
-  "county": "Broward",
-  "wholesale": 649900,
-  "arv": "800,000+",
-  "specs": [
-   "3 Beds / 2 Baths, 1,839 Sq Ft",
-   "Pool, Potential Rent $5,000+/Month",
-   "Impact Windows, Roof 2 Years Old, A/C 2 Years Old"
-  ],
-  "source": "Shark",
-  "ask": 674900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/4321-ne-15th-ter-oakland-park-fl-33334.jpg"
  },
  {
   "addr": "1871 Nw 7th Ter, Pompano Beach, Fl 33060",
@@ -1141,8 +538,9 @@
   "wholesale": 415000,
   "arv": "",
   "specs": [
-   "2 Beds / 1 Bath, 868 Sq Ft (Estimated)",
-   "Private Dock, PVC Plumbing, Updated Bathroom, A/C Approx. 8 Years Old,"
+   "2 Beds / 1 Bath",
+   "Private Dock, PVC Plumbing, Updated Bathroom, Electrical Panel Needs",
+   "Roof Needs Replacement, A/C Approx. 8 Years Old"
   ],
   "source": "Shark",
   "ask": 440000,
@@ -1226,20 +624,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/242-nw-7th-ave-dania-beach-fl-33004.jpg"
  },
  {
-  "addr": "2221 Nw 58th Ave, Lauderhill, Fl 33311",
-  "city": "Lauderhill",
-  "county": "Broward",
-  "wholesale": 9200000,
-  "arv": "",
-  "specs": [
-   "44-Unit Apartment Community, 25,000 Sq Ft (Estimated)",
-   "Built 1973, Current NOI $509,454, Current Gross Income $788,905,"
-  ],
-  "source": "Shark",
-  "ask": 9310000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2221-nw-58th-ave-lauderhill-fl-33311.jpg"
- },
- {
   "addr": "3231 Ne 5th St, Pompano Beach, Fl 33062",
   "city": "Pompano Beach",
   "county": "Broward",
@@ -1290,6 +674,253 @@
   "source": "Shark",
   "ask": 324900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/7209-nw-76th-st-tamarac-fl-33321.jpg"
+ },
+ {
+  "addr": "4848 SW 21st St, Fort Lauderdale, FL 33317",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 379000,
+  "arv": "",
+  "specs": [
+   "Single Family Home, 3 Beds / 2 Baths, 1,150 Sq Ft",
+   "Vacant At Closing, Pool",
+   "Roof: Old, A/C: 2017"
+  ],
+  "source": "Shark",
+  "ask": 404000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/4848-sw-21st-st-fort-lauderdale-fl-33317.jpg"
+ },
+ {
+  "addr": "13237 NW 15th Ct, Pembroke Pines, FL 33028",
+  "city": "Pembroke Pines",
+  "county": "Broward",
+  "wholesale": 669900,
+  "arv": "",
+  "specs": [
+   "Single Family Home, 3 Beds / 2 Baths, 2,322 Sq Ft",
+   "HOA: $350/Month, Needs Cosmetic Work & Minor Flooring Updates, Great",
+   "Roof: Less Than 10 Years Old (Great Condition), A/C: Less Than 10 Years"
+  ],
+  "source": "Shark",
+  "ask": 694900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/13237-nw-15th-ct-pembroke-pines-fl-33028.jpg"
+ },
+ {
+  "addr": "64 Ter, Pembroke Pines, Fl 33023",
+  "city": "Pembroke Pines",
+  "county": "Broward",
+  "wholesale": 427000,
+  "arv": "",
+  "specs": [
+   "3 Beds / 2 Baths, 1,769 Sq Ft",
+   "Central A/C, Needs Updating"
+  ],
+  "source": "Shark",
+  "ask": 452000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/64-ter-pembroke-pines-fl-33023.jpg"
+ },
+ {
+  "addr": "2070 Ne 63rd St, Fort Lauderdale, Fl 33308",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 995000,
+  "arv": "1,400,000–$1,740,000",
+  "specs": [
+   "3 Beds / 2 Baths, 2,560 Sq Ft",
+   "Built 1962, Pool, Impact Windows & Doors, 2-Car Carport",
+   "Roof 2022, A/C 2025 & 2022"
+  ],
+  "source": "Shark",
+  "ask": 1025000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2070-ne-63rd-st-fort-lauderdale-fl-33308.jpg"
+ },
+ {
+  "addr": "2000 Ne 55th St, Fort Lauderdale, Fl 33308",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 749000,
+  "arv": "960,000",
+  "specs": [
+   "3 Beds / 3 Baths, 2,513 Sq Ft",
+   "Pool Home, Well Maintained, Needs Cosmetic Updates"
+  ],
+  "source": "Shark",
+  "ask": 774000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2000-ne-55th-st-fort-lauderdale-fl-33308.jpg"
+ },
+ {
+  "addr": "6260 Sw 6th St, Margate, Fl 33068",
+  "city": "Margate",
+  "county": "Broward",
+  "wholesale": 379000,
+  "arv": "600,000",
+  "specs": [
+   "4 Beds / 2 Baths, 2,084 Sq Ft",
+   "Built 1972, Garage, Fully Rehabbed, New Kitchen, New Bathrooms, New",
+   "New Permitted Roof (2025)"
+  ],
+  "source": "Shark",
+  "ask": 404000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6260-sw-6th-st-margate-fl-33068.jpg"
+ },
+ {
+  "addr": "6833 Sw 20th St, Miramar, Fl 33023",
+  "city": "Miramar",
+  "county": "Broward",
+  "wholesale": 370000,
+  "arv": "",
+  "specs": [
+   "3 Beds / 1 Bath, 912 Sq Ft",
+   "Built 1964, Roof Needs Replacement, Central A/C, Enclosed Back Patio,"
+  ],
+  "source": "Shark",
+  "ask": 395000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6833-sw-20th-st-miramar-fl-33023.jpg"
+ },
+ {
+  "addr": "5740 Taylor St, Hollywood, FL 33021",
+  "city": "Hollywood",
+  "county": "Broward",
+  "wholesale": 479000,
+  "arv": "760,000–$830,000",
+  "specs": [
+   "Concrete Block, 5 Beds / 3 Baths (Main: 3/2, Guest: 2/1), 2,904 Sq Ft",
+   "2 Legal Structures, Spacious Backyard, Prime Hollywood Location"
+  ],
+  "source": "Shark",
+  "ask": 504000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5740-taylor-st-hollywood-fl-33021.jpg"
+ },
+ {
+  "addr": "31 Av Unit H140, Fort Lauderdale, FL 33309",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 231000,
+  "arv": "",
+  "specs": [
+   "Condo, 2 Beds / 2 Baths, 927 Sq Ft",
+   "Waterfront / Lake View, Current Rent: $1,900/Month, HOA: $388/Month, Buy",
+   "Condo, 2 Beds / 2 Baths, 892 Sq Ft",
+   "Waterfront / Canal View, Renovated 2025, Current Rent: $2,050/Month, HOA:"
+  ],
+  "source": "Shark",
+  "ask": 256000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/31-av-unit-h140-fort-lauderdale-fl-33309.jpg"
+ },
+ {
+  "addr": "6311 Flagler St, Hollywood, FL",
+  "city": "Hollywood",
+  "county": "Broward",
+  "wholesale": 284900,
+  "arv": "455,000",
+  "specs": [
+   "CBS, 3 Beds / 1 Bath, 885 Sq Ft",
+   "House in Great Condition"
+  ],
+  "source": "Shark",
+  "ask": 309900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6311-flagler-st-hollywood-fl.jpg"
+ },
+ {
+  "addr": "1501 Nw 3rd Way, Pompano Beach, Fl 33060",
+  "city": "Pompano Beach",
+  "county": "Broward",
+  "wholesale": 305000,
+  "arv": "460,000",
+  "specs": [
+   "CBS, 3 Beds / 2 Baths, 1,694 Sq Ft",
+   "Vacant, Impact Windows, Rehab Needed, Minor Fire Damage"
+  ],
+  "source": "Shark",
+  "ask": 330000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1501-nw-3rd-way-pompano-beach-fl-33060.jpg"
+ },
+ {
+  "addr": "5180 Sw 27th Ter, Fort Lauderdale, Fl 33312",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 383000,
+  "arv": "550,000",
+  "specs": [
+   "CBS, 3 Beds / 2 Baths",
+   "Updated Kitchen, Florida Room, Patio, Central A/C, Good Condition"
+  ],
+  "source": "Shark",
+  "ask": 408000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5180-sw-27th-ter-fort-lauderdale-fl-33312.jpg"
+ },
+ {
+  "addr": "1512 Nw 3rd Ave, Fort Lauderdale, Fl 33311",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 280000,
+  "arv": "445,000+",
+  "specs": [
+   "2 Beds / 1 Bath, 1,069 Sq Ft",
+   "Light–Moderate Rehab"
+  ],
+  "source": "Shark",
+  "ask": 305000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1512-nw-3rd-ave-fort-lauderdale-fl-33311.jpg"
+ },
+ {
+  "addr": "2637 Nassau Dr, Miramar, Fl 33023",
+  "city": "Miramar",
+  "county": "Broward",
+  "wholesale": 395000,
+  "arv": "535,000",
+  "specs": [
+   "CBS, 3 Beds / 2 Baths, 1,453 Sq Ft",
+   "Den (Convertible To 4th Bedroom), Needs Kitchen, Paint & Flooring",
+   "Brand New Roof (2026), Hvac 2015, Bathrooms Renovated (2026)"
+  ],
+  "source": "Shark",
+  "ask": 420000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2637-nassau-dr-miramar-fl-33023.jpg"
+ },
+ {
+  "addr": "47 Street, Deerfield Beach, FL 33064",
+  "city": "Deerfield Beach",
+  "county": "Broward",
+  "wholesale": 243500,
+  "arv": "",
+  "specs": [
+   "3 Beds / 2 Baths, 1,332 Sq Ft",
+   "Lakefront, Tankless Water Heater, HOA $111/Mo, 2-Week Post Occupancy",
+   "A/C 2019, Updated Electrical"
+  ],
+  "source": "Shark",
+  "ask": 268500,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/47-street-deerfield-beach-fl-33064.jpg"
+ },
+ {
+  "addr": "2501 NE 8th Ave Pompano Beach, FL 33064",
+  "city": "Pompano Beach",
+  "county": "Broward",
+  "wholesale": 289000,
+  "arv": "",
+  "specs": [
+   "2 Beds / 1 Bath, 893 Sq Ft",
+   "Impact Windows, Vacant at Closing",
+   "Roof: 2017"
+  ],
+  "source": "Shark",
+  "ask": 314000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2501-ne-8th-ave-pompano-beach-fl-33064.jpg"
+ },
+ {
+  "addr": "XX SW 17th St, Fort Lauderdale, FL 33312",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 449000,
+  "arv": "650,000",
+  "specs": [
+   "CBS, 3 Beds / 2 Baths, 1,980 Sq Ft",
+   "Built 1957, Pool, Estimated Rehab: $70,000"
+  ],
+  "source": "Shark",
+  "ask": 474000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/xx-sw-17th-st-fort-lauderdale-fl-33312.jpg"
  },
  {
   "addr": "4205 NW 52nd Ave, Fort Lauderdale, FL 33319",
@@ -1370,6 +1001,21 @@
   "source": "Shark",
   "ask": 489900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/528-49th-st-west-palm-beach-fl-33407.jpg"
+ },
+ {
+  "addr": "450 NW 12th Ave, Boca Raton, FL 33486",
+  "city": "Boca Raton",
+  "county": "Palm Beach",
+  "wholesale": 589900,
+  "arv": "800,000",
+  "specs": [
+   "2 Beds / 2 Baths, CBS, 1,596 Sq Ft",
+   "In-Ground Pool, Impact Windows, Electrical & Plumbing in Good Condition,",
+   "Metal Roof: 2012, A/C: 2018 (Not Operational)"
+  ],
+  "source": "Shark",
+  "ask": 614900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/450-nw-12th-ave-boca-raton-fl-33486.jpg"
  },
  {
   "addr": "200 Eagleton Estates Blvd, Palm Beach Gardens, Fl 33418",
@@ -1649,6 +1295,50 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/1008-sw-5th-ave-boynton-beach-fl-33426.jpg"
  },
  {
+  "addr": "3709 Nyack Ln, Greenacres, FL 33463",
+  "city": "Greenacres",
+  "county": "Palm Beach",
+  "wholesale": 279900,
+  "arv": "420,000",
+  "specs": [
+   "Single Family Home, 3 Beds / 2 Baths, 1,386 Sq Ft",
+   "Great Fix & Flip / Buy & Hold Opportunity, Strong Value-Add Potential,",
+   "Newer Roof (Year TBD), 2017 A/C, 2017 Water Heater"
+  ],
+  "source": "Shark",
+  "ask": 304900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/3709-nyack-ln-greenacres-fl-33463.jpg"
+ },
+ {
+  "addr": "299 Nw 12th St, Boca Raton, Fl 33432",
+  "city": "Boca Raton",
+  "county": "Palm Beach",
+  "wholesale": 774900,
+  "arv": "1,000,000",
+  "specs": [
+   "CBS, 5 Beds / 3 Baths, 1,890 Sq Ft",
+   "Pool, 6-Car Garage, Attached 1/1 Mother-In-Law Suite, Updated Kitchen &"
+  ],
+  "source": "Shark",
+  "ask": 804900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/299-nw-12th-st-boca-raton-fl-33432.jpg"
+ },
+ {
+  "addr": "870 Se Proctor Ln, Port St. Lucie, Fl 34983",
+  "city": "Port St. Lucie",
+  "county": "St. Lucie",
+  "wholesale": 349900,
+  "arv": "430,000-$450,000",
+  "specs": [
+   "4 Beds / 2 Baths, CBS, 2,636 Sq Ft",
+   "Needs Kitchen & Flooring Updates",
+   "Metal Roof 2 Years Old"
+  ],
+  "source": "Shark",
+  "ask": 374900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/870-se-proctor-ln-port-st-lucie-fl-34983.jpg"
+ },
+ {
   "addr": "215 Se Voltair Terrace, Port Saint Lucie, Fl 34983",
   "city": "Port Saint Lucie",
   "county": "St. Lucie",
@@ -1706,6 +1396,23 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/9430-poinciana-ct-fort-pierce-fl-34951.jpg"
  },
  {
+  "addr": "115 Se Camino St, Port St. Lucie, Fl 34952",
+  "city": "Port St. Lucie",
+  "county": "St. Lucie",
+  "wholesale": 229000,
+  "arv": "",
+  "specs": [
+   "CBS, 2 Beds / 2 Baths, 1,261 Sq Ft",
+   "Pool, Florida Room, Garage, Public Water & Sewer",
+   "3 Beds / 2 Baths, 1,295 Sq Ft",
+   "2-Car Garage, Easy Update",
+   "New Roof"
+  ],
+  "source": "Shark",
+  "ask": 254000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/115-se-camino-st-port-st-lucie-fl-34952.jpg"
+ },
+ {
   "addr": "174 SE Celestia Court, Port St Lucie, FL 34983",
   "city": "Port St. Lucie",
   "county": "St. Lucie",
@@ -1728,48 +1435,6 @@
   "source": "Investorlift",
   "ask": 502000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/1002-del-harbour-drive-delray-beach-fl-33483.jpg"
- },
- {
-  "addr": "5552 Flint Rd, Cocoa, Fl 32927",
-  "city": "Cocoa",
-  "county": "Brevard",
-  "wholesale": 265000,
-  "arv": "",
-  "specs": [
-   "Single-Family Home, 3 Beds / 2 Baths, 1,328 Sq Ft",
-   "Septic, City Water, Vacant At Closing",
-   "Roof 2001 (Needs Replacement), A/C 2014"
-  ],
-  "source": "Shark",
-  "ask": 290000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5552-flint-rd-cocoa-fl-32927.jpg"
- },
- {
-  "addr": "311 Rutgers Ave, Melbourne, FL 32901",
-  "city": "Melbourne",
-  "county": "Brevard",
-  "wholesale": 109990,
-  "arv": "250,000–$260,000",
-  "specs": [
-   "CBS, 3 Beds / 1.5 Baths, 936 Sq Ft",
-   "Vacant at Closing, Flood Zone X, Enclosed Florida Room (Approx. 270 Sq"
-  ],
-  "source": "Shark",
-  "ask": 134990,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/311-rutgers-ave-melbourne-fl-32901.jpg"
- },
- {
-  "addr": "1584 Fuji Dr, Titusville, Fl 32796",
-  "city": "Titusville",
-  "county": "Brevard",
-  "wholesale": 269000,
-  "arv": "380,000–$420,000",
-  "specs": [
-   "4 Bed / 2 Bath · 1,902 Sq Ft"
-  ],
-  "source": "Shark",
-  "ask": 294000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1584-fuji-dr-titusville-fl-32796.jpg"
  },
  {
   "addr": "1003 Woodlawn Rd, Rockledge, Fl 32955",
@@ -1829,17 +1494,74 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/9898-e-verona-cir-vero-beach-fl-32966.jpg"
  },
  {
-  "addr": "Melbourne, FL 32934",
+  "addr": "5005 E 1st Sq Sw, Vero Beach, Fl 32968",
+  "city": "Vero Beach",
+  "county": "Brevard",
+  "wholesale": 347400,
+  "arv": "",
+  "specs": [
+   "CBS, 4 Beds / 3 Baths, 2,158 Sq Ft",
+   "Gated Community, Community Pool & Spa",
+   "Roof 2020"
+  ],
+  "source": "Shark",
+  "ask": 372400,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5005-e-1st-sq-sw-vero-beach-fl-32968.jpg"
+ },
+ {
+  "addr": "5552 Flint Rd, Cocoa, Fl 32927",
+  "city": "Cocoa",
+  "county": "Brevard",
+  "wholesale": 265000,
+  "arv": "",
+  "specs": [
+   "Single-Family Home, 3 Beds / 2 Baths, 1,328 Sq Ft",
+   "Septic, City Water, Vacant At Closing",
+   "Roof 2001 (Needs Replacement), A/C 2014"
+  ],
+  "source": "Shark",
+  "ask": 290000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5552-flint-rd-cocoa-fl-32927.jpg"
+ },
+ {
+  "addr": "311 Rutgers Ave, Melbourne, FL 32901",
   "city": "Melbourne",
   "county": "Brevard",
-  "wholesale": 450000,
-  "arv": "53k",
+  "wholesale": 109990,
+  "arv": "250,000–$260,000",
   "specs": [
-   "4 Bed / 2 Bath · 2,255 Sq Ft"
+   "CBS, 3 Beds / 1.5 Baths, 936 Sq Ft",
+   "Vacant at Closing, Flood Zone X, Enclosed Florida Room (Approx. 270 Sq"
+  ],
+  "source": "Shark",
+  "ask": 134990,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/311-rutgers-ave-melbourne-fl-32901.jpg"
+ },
+ {
+  "addr": "1584 Fuji Dr, Titusville, Fl 32796",
+  "city": "Titusville",
+  "county": "Brevard",
+  "wholesale": 269000,
+  "arv": "380,000–$420,000",
+  "specs": [
+   "4 Bed / 2 Bath · 1,902 Sq Ft"
+  ],
+  "source": "Shark",
+  "ask": 294000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1584-fuji-dr-titusville-fl-32796.jpg"
+ },
+ {
+  "addr": "3312 S Forest Street, Orlando, FL 32806",
+  "city": "Orlando",
+  "county": "Orange",
+  "wholesale": 374900,
+  "arv": "49k",
+  "specs": [
+   "4 Bed / 2 Bath · 1,679 Sq Ft"
   ],
   "source": "Investorlift",
-  "ask": 475000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/melbourne-fl-32934.jpg"
+  "ask": 399900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/3312-s-forest-street-orlando-fl-32806.jpg"
  },
  {
   "addr": "1221 Leeway Ave, Orlando, Fl 32810",
@@ -2157,17 +1879,15 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/1387-black-willow-trl-altamonte-springs-fl-32714.jpg"
  },
  {
-  "addr": "Jacksonville, FL 32208",
+  "addr": "Jacksonville, FL 32209",
   "city": "Jacksonville",
   "county": "Duval",
-  "wholesale": 112500,
-  "arv": "185k",
-  "specs": [
-   "3 Bed / 1 Bath · 1,216 Sq Ft"
-  ],
+  "wholesale": 18900,
+  "arv": "215k",
+  "specs": [],
   "source": "Investorlift",
-  "ask": 137500,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/jacksonville-fl-32208.jpg"
+  "ask": 43900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/jacksonville-fl-32209.jpg"
  },
  {
   "addr": "JACKSONVILLE SELLING $26,500 BELOW LIST",
@@ -2238,15 +1958,15 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/400-mango-st-new-port-richey-fl-34654.jpg"
  },
  {
-  "addr": "511 S. Paula Drive, Dunedin, FL 34698",
-  "city": "Port Richey",
+  "addr": "429 Lone Heron Way, Winter Garden, FL 34787",
+  "city": "New Port Richey",
   "county": "Pasco",
-  "wholesale": 189000,
-  "arv": "26k",
+  "wholesale": 152000,
+  "arv": "23k",
   "specs": [],
   "source": "Investorlift",
-  "ask": 214000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/511-s-paula-drive-dunedin-fl-34698.jpg"
+  "ask": 177000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/429-lone-heron-way-winter-garden-fl-34787.jpg"
  },
  {
   "addr": "8021 N Edison Ave, Tampa, FL 33604",
@@ -2371,17 +2091,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/lakeland-fl-33813.jpg"
  },
  {
-  "addr": "429 Lone Heron Way, Winter Garden, FL 34787",
-  "city": "Winter Haven",
-  "county": "Polk",
-  "wholesale": 199000,
-  "arv": "285k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 224000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/429-lone-heron-way-winter-garden-fl-34787.jpg"
- },
- {
   "addr": "3319 Avenue U NW, Winter Haven, FL 33881",
   "city": "Winter Haven",
   "county": "Polk",
@@ -2393,6 +2102,19 @@
   "source": "Investorlift",
   "ask": 154900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/3319-avenue-u-nw-winter-haven-fl-33881.jpg"
+ },
+ {
+  "addr": ", FL",
+  "city": "",
+  "county": "Outros",
+  "wholesale": 178500,
+  "arv": "",
+  "specs": [
+   "Re: Available - Ocala, FL, Block 3/2/2"
+  ],
+  "source": "Beau Roberts",
+  "ask": 218500,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/fl.jpg"
  },
  {
   "addr": "7706 Whitebridge Glen, University Park, FL 34201",
@@ -2419,19 +2141,6 @@
   "source": "Investorlift",
   "ask": 244900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/4108-abbotsford-street-north-port-fl-34287.jpg"
- },
- {
-  "addr": ", FL",
-  "city": "",
-  "county": "Outros",
-  "wholesale": 1300,
-  "arv": "",
-  "specs": [
-   "Hudson, FL, Rented for $1,300. Price $89k"
-  ],
-  "source": "Beau Roberts",
-  "ask": 41300,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/fl.jpg"
  },
  {
   "addr": "5319 Boswell Rd, Spring Hill, Fl 34608",
@@ -2664,17 +2373,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/500-month-instant-cash-fl.jpg"
  },
  {
-  "addr": "000, Strong Fl",
-  "city": "Strong",
-  "county": "Outros",
-  "wholesale": 480000,
-  "arv": "655,000",
-  "specs": [],
-  "source": "Shark",
-  "ask": 505000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/000-strong-fl.jpg"
- },
- {
   "addr": "800 Lake Marion Drive, Altamonte Springs, FL 32701",
   "city": "Altamonte Springs",
   "county": "Outros",
@@ -2899,6 +2597,17 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/ruskin-fl-33570.jpg"
  },
  {
+  "addr": "511 S. Paula Drive, Dunedin, FL 34698",
+  "city": "Dade City",
+  "county": "Outros",
+  "wholesale": 222000,
+  "arv": "325k",
+  "specs": [],
+  "source": "Investorlift",
+  "ask": 247000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/511-s-paula-drive-dunedin-fl-34698.jpg"
+ },
+ {
   "addr": "4754 1st Ave N, Saint Petersburg, FL 33713",
   "city": "St. Petersburg",
   "county": "Outros",
@@ -2908,40 +2617,5 @@
   "source": "Investorlift",
   "ask": 329900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/4754-1st-ave-n-saint-petersburg-fl-33713.jpg"
- },
- {
-  "addr": "Alva, FL 33920",
-  "city": "Alva",
-  "county": "Outros",
-  "wholesale": 355000,
-  "arv": "44k",
-  "specs": [
-   "4 Bed / 3 Bath · 2,571 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 380000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/alva-fl-33920.jpg"
- },
- {
-  "addr": "Citrus Springs, FL 34434",
-  "city": "Citrus Springs",
-  "county": "Outros",
-  "wholesale": 14000,
-  "arv": "16k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 39000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/citrus-springs-fl-34434.jpg"
- },
- {
-  "addr": "North Port, FL 34287",
-  "city": "North Port",
-  "county": "Outros",
-  "wholesale": 69000,
-  "arv": "11k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 94000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/north-port-fl-34287.jpg"
  }
 ]
