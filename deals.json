@@ -1888,17 +1888,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/2137-morrilton-ct-orlando-fl-32837.jpg"
  },
  {
-  "addr": "47 Drennen Rd, Orlando, FL 32806",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 190000,
-  "arv": "335k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 215000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/47-drennen-rd-orlando-fl-32806.jpg"
- },
- {
   "addr": "3455 Jujube Drive, Orlando, FL 32810",
   "city": "Orlando",
   "county": "Orange",
@@ -2278,19 +2267,6 @@
   "source": "Investorlift",
   "ask": 144000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/tampa-fl-33619.jpg"
- },
- {
-  "addr": "Riverview, FL 33578",
-  "city": "Riverview",
-  "county": "Hillsborough",
-  "wholesale": 30000,
-  "arv": "397k",
-  "specs": [
-   "3 Bed / 2 Bath \u00b7 1,436 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 55000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/riverview-fl-33578.jpg"
  },
  {
   "addr": "Punta Gorda, FL 33950",
