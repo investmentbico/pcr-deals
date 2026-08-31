@@ -653,6 +653,19 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/miami-fl-33125.jpg"
  },
  {
+  "addr": "2340 SW 36th Ave, Fort Lauderdale, FL 33312",
+  "city": "Fort Lauderdale",
+  "county": "Broward",
+  "wholesale": 439900,
+  "arv": "57k",
+  "specs": [
+   "3 Bed / 2 Bath · 1,420 Sq Ft"
+  ],
+  "source": "Investorlift",
+  "ask": 464900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2340-sw-36th-ave-fort-lauderdale-fl-33312.jpg"
+ },
+ {
   "addr": "6808 Merion Ct, Pompano Beach, Fl 33068",
   "city": "Pompano Beach",
   "county": "Broward",
@@ -668,20 +681,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/6808-merion-ct-pompano-beach-fl-33068.jpg"
  },
  {
-  "addr": "7558 Nw 17th Dr, Pembroke Pines, Fl 33024",
-  "city": "Pembroke Pines",
-  "county": "Broward",
-  "wholesale": 500000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 3 Bath, 1,938 Sq Ft",
-   "HOA $345/Month, Needs Updates, 30-Day Post-Closing Occupancy"
-  ],
-  "source": "Shark",
-  "ask": 525000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/7558-nw-17th-dr-pembroke-pines-fl-33024.jpg"
- },
- {
   "addr": "13237 NW 15th Ct, Pembroke Pines, FL 33028",
   "city": "Pembroke Pines",
   "county": "Broward",
@@ -695,6 +694,20 @@
   "source": "Shark",
   "ask": 694900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/13237-nw-15th-ct-pembroke-pines-fl-33028.jpg"
+ },
+ {
+  "addr": "7558 Nw 17th Dr, Pembroke Pines, Fl 33024",
+  "city": "Pembroke Pines",
+  "county": "Broward",
+  "wholesale": 500000,
+  "arv": "",
+  "specs": [
+   "3 Beds / 3 Bath, 1,938 Sq Ft",
+   "HOA $345/Month, Needs Updates, 30-Day Post-Closing Occupancy"
+  ],
+  "source": "Shark",
+  "ask": 525000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/7558-nw-17th-dr-pembroke-pines-fl-33024.jpg"
  },
  {
   "addr": "3447 NW 47th Ave, Coconut Creek, FL 33063",
@@ -1523,17 +1536,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/1302-sw-22nd-avenue-fort-lauderdale-fl-33312.jpg"
  },
  {
-  "addr": "4205 NW 52nd Ave, Fort Lauderdale, FL 33319",
-  "city": "Lauderdale Lakes",
-  "county": "Broward",
-  "wholesale": 279900,
-  "arv": "37k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 304900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/4205-nw-52nd-ave-fort-lauderdale-fl-33319.jpg"
- },
- {
   "addr": "98 Seminole Lane, Boca Raton, FL 33487",
   "city": "Boca Raton",
   "county": "Palm Beach",
@@ -1795,32 +1797,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/2202-elizabeth-ave-fort-pierce-fl-34982.jpg"
  },
  {
-  "addr": "174 SE Celestia Court, Port St Lucie, FL 34983",
-  "city": "Port St. Lucie",
-  "county": "St. Lucie",
-  "wholesale": 160900,
-  "arv": "27k",
-  "specs": [
-   "2 Bed / 1 Bath · 722 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 185900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/174-se-celestia-court-port-st-lucie-fl-34983.jpg"
- },
- {
-  "addr": "325 NW Dearman Street, Port St Lucie, FL 34983",
-  "city": "Port St. Lucie",
-  "county": "St. Lucie",
-  "wholesale": 269900,
-  "arv": "37k",
-  "specs": [
-   "3 Bed / 2 Bath · 1,462 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 294900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/325-nw-dearman-street-port-st-lucie-fl-34983.jpg"
- },
- {
   "addr": "GROUND POOL",
   "city": "Merritt Island",
   "county": "Brevard",
@@ -1950,17 +1926,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/401-s-rosalind-ave-100-orlando-fl-32801.jpg"
  },
  {
-  "addr": "47 Drennen Rd, Orlando, FL 32806",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 160000,
-  "arv": "26k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 185000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/47-drennen-rd-orlando-fl-32806.jpg"
- },
- {
   "addr": "1101 N Hampton Avenue, Orlando, FL 32803",
   "city": "Orlando",
   "county": "Orange",
@@ -1987,43 +1952,15 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/3312-s-forest-street-orlando-fl-32806.jpg"
  },
  {
-  "addr": "3455 Jujube Drive, Orlando, FL 32810",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 244900,
-  "arv": "32k",
-  "specs": [
-   "3 Bed / 2 Bath · 1,171 Sq Ft"
-  ],
+  "addr": "600 Rinehart Rd, Lake Mary, FL 32746",
+  "city": "Kissimmee",
+  "county": "Osceola",
+  "wholesale": 254900,
+  "arv": "34k",
+  "specs": [],
   "source": "Investorlift",
-  "ask": 269900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/3455-jujube-drive-orlando-fl-32810.jpg"
- },
- {
-  "addr": "8742 Fort Shea Ave, Orlando, FL 32822",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 299900,
-  "arv": "385k",
-  "specs": [
-   "3 Bed / 2 Bath · 1,226 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 324900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/8742-fort-shea-ave-orlando-fl-32822.jpg"
- },
- {
-  "addr": "619 Grand Street, Orlando, FL 32805",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 219900,
-  "arv": "29k",
-  "specs": [
-   "3 Bed / 2 Bath · 1,434 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 244900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/619-grand-street-orlando-fl-32805.jpg"
+  "ask": 279900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/600-rinehart-rd-lake-mary-fl-32746.jpg"
  },
  {
   "addr": "1002 Del Harbour Drive, Delray Beach, FL 33483",
@@ -2189,6 +2126,17 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/429-lone-heron-way-winter-garden-fl-34787.jpg"
  },
  {
+  "addr": "8401 N 40th St, Tampa, FL 33604",
+  "city": "Tampa",
+  "county": "Hillsborough",
+  "wholesale": 255000,
+  "arv": "399.9k",
+  "specs": [],
+  "source": "Investorlift",
+  "ask": 280000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/8401-n-40th-st-tampa-fl-33604.jpg"
+ },
+ {
   "addr": "Tampa, FL 33617",
   "city": "Tampa",
   "county": "Hillsborough",
@@ -2261,15 +2209,15 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/lakeland-fl-33810.jpg"
  },
  {
-  "addr": "600 Rinehart Rd, Lake Mary, FL 32746",
-  "city": "Lake City",
+  "addr": "Pensacola, FL 32507",
+  "city": "Pensacola",
   "county": "Outros",
-  "wholesale": 238900,
-  "arv": "36k",
+  "wholesale": 119900,
+  "arv": "7k",
   "specs": [],
   "source": "Investorlift",
-  "ask": 263900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/600-rinehart-rd-lake-mary-fl-32746.jpg"
+  "ask": 144900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/pensacola-fl-32507.jpg"
  },
  {
   "addr": ", FL",
@@ -2329,6 +2277,17 @@
   "source": "Investorlift",
   "ask": 410000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/st-petersburg-fl-33712.jpg"
+ },
+ {
+  "addr": "47 Drennen Rd, Orlando, FL 32806",
+  "city": "Auburndale",
+  "county": "Outros",
+  "wholesale": 115000,
+  "arv": "21k",
+  "specs": [],
+  "source": "Investorlift",
+  "ask": 140000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/47-drennen-rd-orlando-fl-32806.jpg"
  },
  {
   "addr": "Inverness, FL 34450",
@@ -2414,29 +2373,5 @@
   "source": "Investorlift",
   "ask": 130000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/orange-park-fl-32073.jpg"
- },
- {
-  "addr": "520 W Jackson Avenue, Lake Wales, FL 33853",
-  "city": "Lake Wales",
-  "county": "Outros",
-  "wholesale": 89900,
-  "arv": "17k",
-  "specs": [
-   "2 Bed / 1 Bath · 684 Sq Ft"
-  ],
-  "source": "Investorlift",
-  "ask": 114900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/520-w-jackson-avenue-lake-wales-fl-33853.jpg"
- },
- {
-  "addr": "Port Orange, FL 32127",
-  "city": "Port Orange",
-  "county": "Outros",
-  "wholesale": 215000,
-  "arv": "42k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 240000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/port-orange-fl-32127.jpg"
  }
 ]
