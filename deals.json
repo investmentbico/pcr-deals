@@ -1,48 +1,5 @@
 [
  {
-  "addr": "9760 SW 211th St, Cutler Bay, FL",
-  "city": "Cutler Bay",
-  "county": "Miami-Dade",
-  "wholesale": 545000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 2 Baths, 1,590 Sq Ft",
-   "Garage, Turnkey, Updated Eat-In Kitchen, Bathroom Updates, Impact Windows",
-   "Roof Approx. 8 Years Old, Central A/C Approx. 4 Years Old"
-  ],
-  "source": "Shark",
-  "ask": 570000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/9760-sw-211th-st-cutler-bay-fl.jpg"
- },
- {
-  "addr": "19000 NW 14th Ave Rd, Miami Gardens, FL 33169",
-  "city": "Miami Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 499000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 2 Baths (Rolling Oaks), 2,005 Sq Ft",
-   "Extra-Large Lot, Value-Add Opportunity, Vacant At Closing"
-  ],
-  "source": "Shark",
-  "ask": 524000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/19000-nw-14th-ave-rd-miami-gardens-fl-33169.jpg"
- },
- {
-  "addr": "11600 NE 6th Ave, Biscayne Park, FL 33161",
-  "city": "Biscayne Park",
-  "county": "Miami-Dade",
-  "wholesale": 890000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 2 Baths, 1,245 Sq Ft",
-   "11,172 Sq Ft Lot, Development Opportunity (Zoning 1-R1, Potential ~4,500"
-  ],
-  "source": "Shark",
-  "ask": 920000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/11600-ne-6th-ave-biscayne-park-fl-33161.jpg"
- },
- {
   "addr": "1730 SW 72nd Ct, Miami, FL 33155",
   "city": "Miami",
   "county": "Miami-Dade",
@@ -156,6 +113,20 @@
   "source": "Shark",
   "ask": 370000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/305-nw-10th-st-homestead-fl-33030.jpg"
+ },
+ {
+  "addr": "9760 Sw 211th St, Cutler Bay, Fl 33189",
+  "city": "Cutler Bay",
+  "county": "Miami-Dade",
+  "wholesale": 579900,
+  "arv": "",
+  "specs": [
+   "3 Beds / 2 Baths, 1,590 Sq Ft",
+   "1-Car Garage, Roof Approx. 8 Years Old, A/C Approx. 5 Years Old, Updated"
+  ],
+  "source": "Shark",
+  "ask": 604900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/9760-sw-211th-st-cutler-bay-fl-33189.jpg"
  },
  {
   "addr": "17731 NW 28th Ct, Miami Gardens, FL 33056",
@@ -274,6 +245,20 @@
   "source": "Shark",
   "ask": 124999,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/665-ne-195th-st-apt-126-miami-fl-33179.jpg"
+ },
+ {
+  "addr": "11600 NE 6th Ave, Biscayne Park, FL 33161",
+  "city": "Biscayne Park",
+  "county": "Miami-Dade",
+  "wholesale": 730000,
+  "arv": "1,000,000",
+  "specs": [
+   "3 Beds / 2 Baths, 1,245 Sq Ft",
+   "Investment / Development Opportunity, $15,000 EMD"
+  ],
+  "source": "Shark",
+  "ask": 755000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/11600-ne-6th-ave-biscayne-park-fl-33161.jpg"
  },
  {
   "addr": "3072 NW 57th St Miami, FL 33142",
@@ -513,6 +498,20 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/128-nw-118th-st-miami-fl-33168.jpg"
  },
  {
+  "addr": "19000 Nw 14th Ave Rd, Miami Gardens, Fl",
+  "city": "Miami Gardens",
+  "county": "Miami-Dade",
+  "wholesale": 460000,
+  "arv": "650,000",
+  "specs": [
+   "3 Beds / 2 Baths, 2,005 Sq Ft",
+   "Value-Add Opportunity, Fascia & Broken Windows Need Repair, Buyer To"
+  ],
+  "source": "Shark",
+  "ask": 485000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/19000-nw-14th-ave-rd-miami-gardens-fl.jpg"
+ },
+ {
   "addr": "14040 Ne 12th Ave, North Miami, Fl 33161",
   "city": "North Miami",
   "county": "Miami-Dade",
@@ -569,36 +568,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/14321-sw-77th-ave-palmetto-bay-fl-33158.jpg"
  },
  {
-  "addr": "16842 SW 86th Ave, Palmetto Bay, FL 33157",
-  "city": "Palmetto Bay",
-  "county": "Miami-Dade",
-  "wholesale": 865000,
-  "arv": "",
-  "specs": [
-   "4 Beds / 2 Baths, 2,102 Sq Ft",
-   "2-Car Garage, Pool, 0.37 Acre Lot"
-  ],
-  "source": "Shark",
-  "ask": 895000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/16842-sw-86th-ave-palmetto-bay-fl-33157.jpg"
- },
- {
-  "addr": "6346 Nw 41st St, Virginia Gardens, Fl 33166",
-  "city": "Virginia Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 549000,
-  "arv": "",
-  "specs": [
-   "2 Beds / 1 Bath, 846 Sq Ft",
-   "Potential To Convert To 3 Beds / 2 Baths, Full Interior Rehab, Vacant At",
-   "Vacant Land, 5,000 Sq Ft Lot",
-   "No Assigned Address, Parcel ID 34-2115-005-2180"
-  ],
-  "source": "Shark",
-  "ask": 574000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6346-nw-41st-st-virginia-gardens-fl-33166.jpg"
- },
- {
   "addr": "3930 Nw 195th St, Miami Gardens, Fl 33055",
   "city": "Miami Gardens",
   "county": "Miami-Dade",
@@ -639,6 +608,36 @@
   "source": "Shark",
   "ask": 1325000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/x-sw-146th-st-palmetto-bay-fl-33158.jpg"
+ },
+ {
+  "addr": "16842 Sw 86th Ave, Palmetto Bay, Fl 33157",
+  "city": "Palmetto Bay",
+  "county": "Miami-Dade",
+  "wholesale": 839000,
+  "arv": "",
+  "specs": [
+   "4 Beds / 2 Baths, 2,102 Sq Ft",
+   "2-Car Garage, Pool, Prime Palmetto Bay Location, Ready To Close"
+  ],
+  "source": "Shark",
+  "ask": 869000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/16842-sw-86th-ave-palmetto-bay-fl-33157.jpg"
+ },
+ {
+  "addr": "6346 Nw 41st St, Virginia Gardens, Fl 33166",
+  "city": "Virginia Gardens",
+  "county": "Miami-Dade",
+  "wholesale": 549000,
+  "arv": "",
+  "specs": [
+   "2 Beds / 1 Bath, 846 Sq Ft",
+   "Potential To Convert To 3 Beds / 2 Baths, Full Interior Rehab, Vacant At",
+   "Vacant Land, 5,000 Sq Ft Lot",
+   "No Assigned Address, Parcel ID 34-2115-005-2180"
+  ],
+  "source": "Shark",
+  "ask": 574000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6346-nw-41st-st-virginia-gardens-fl-33166.jpg"
  },
  {
   "addr": "45 St, Miami, Fl 33127",
@@ -807,22 +806,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/key-west-fl-33040.jpg"
  },
  {
-  "addr": "17210 Nw 47th Ave, Miami Gardens, Fl 33055",
-  "city": "Miami Gardens",
-  "county": "Miami-Dade",
-  "wholesale": 409000,
-  "arv": "",
-  "specs": [
-   "3 Beds / 1 Bath, 1,274 Sq Ft",
-   "Fix & Flip Opportunity, Value-Add Potential, Possible 4 Beds / 2 Baths,",
-   "6,720 Sq Ft Lot",
-   "Vacant Land, Duplex Development Potential, Twin Home Development"
-  ],
-  "source": "Shark",
-  "ask": 434000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/17210-nw-47th-ave-miami-gardens-fl-33055.jpg"
- },
- {
   "addr": "21407 NW 39th Ave, Miami Gardens, FL 33055",
   "city": "Miami Gardens",
   "county": "Miami-Dade",
@@ -908,6 +891,22 @@
   "source": "Shark",
   "ask": 384000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/2401-nw-56th-st-miami-fl-33142.jpg"
+ },
+ {
+  "addr": "17210 Nw 47th Ave, Miami Gardens, Fl 33055",
+  "city": "Miami Gardens",
+  "county": "Miami-Dade",
+  "wholesale": 409000,
+  "arv": "",
+  "specs": [
+   "3 Beds / 1 Bath, 1,274 Sq Ft",
+   "Fix & Flip Opportunity, Value-Add Potential, Possible 4 Beds / 2 Baths,",
+   "6,720 Sq Ft Lot",
+   "Vacant Land, Duplex Development Potential, Twin Home Development"
+  ],
+  "source": "Shark",
+  "ask": 434000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/17210-nw-47th-ave-miami-gardens-fl-33055.jpg"
  },
  {
   "addr": "821 Ne 119th St, Biscayne Park, Fl 33161",
@@ -1119,34 +1118,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/20921-nw-27th-ct-miami-fl-33056.jpg"
  },
  {
-  "addr": "1448 NE 27th St, Pompano Beach, FL 33064",
-  "city": "Pompano Beach",
-  "county": "Broward",
-  "wholesale": 295000,
-  "arv": "",
-  "specs": [
-   "CBS, 2 Beds / 1.5 Baths, 824 Sq Ft",
-   "Tenant Occupied (Month-to-Month), Laminate Flooring, Public Water, No"
-  ],
-  "source": "Shark",
-  "ask": 320000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1448-ne-27th-st-pompano-beach-fl-33064.jpg"
- },
- {
-  "addr": "5720 Flagler St, Hollywood, Fl 33023",
-  "city": "Hollywood",
-  "county": "Broward",
-  "wholesale": 424900,
-  "arv": "630,000",
-  "specs": [
-   "5 Beds / 3 Baths, 2,450 Sq Ft",
-   "Single-Family Home, Clean / Outdated, Rehab Needed"
-  ],
-  "source": "Shark",
-  "ask": 449900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5720-flagler-st-hollywood-fl-33023.jpg"
- },
- {
   "addr": "2340 SW 36th Ave, Fort Lauderdale FL 33312",
   "city": "Fort Lauderdale",
   "county": "Broward",
@@ -1221,6 +1192,20 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/x-sw-xxth-st-miramar-fl-33029.jpg"
  },
  {
+  "addr": "1448 Ne 27th St, Pompano Beach, Fl 33064",
+  "city": "Pompano Beach",
+  "county": "Broward",
+  "wholesale": 295000,
+  "arv": "",
+  "specs": [
+   "3 Beds / 1 Bath, 824 Sq Ft",
+   "Built 1955, No Liens, No Open Permits"
+  ],
+  "source": "Shark",
+  "ask": 320000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1448-ne-27th-st-pompano-beach-fl-33064.jpg"
+ },
+ {
   "addr": "x Grant St, Hollywood, Fl 33021",
   "city": "Hollywood",
   "county": "Broward",
@@ -1233,6 +1218,20 @@
   "source": "Shark",
   "ask": 799999,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/x-grant-st-hollywood-fl-33021.jpg"
+ },
+ {
+  "addr": "5720 Flagler St, Hollywood, Fl 33023",
+  "city": "Hollywood",
+  "county": "Broward",
+  "wholesale": 424900,
+  "arv": "630,000",
+  "specs": [
+   "5 Beds / 3 Baths, 2,450 Sq Ft",
+   "Single-Family Home, Clean / Outdated, Rehab Needed"
+  ],
+  "source": "Shark",
+  "ask": 449900,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5720-flagler-st-hollywood-fl-33023.jpg"
  },
  {
   "addr": "3340 Sw 20th Ct, Fort Lauderdale, Fl 33312",
@@ -1906,6 +1905,20 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/x-funston-st-hollywood-fl-33020.jpg"
  },
  {
+  "addr": "10755 Sw 17th Pl, Davie, Fl 33324",
+  "city": "Davie",
+  "county": "Broward",
+  "wholesale": 620000,
+  "arv": "",
+  "specs": [
+   "4 Beds / 2.5 Baths, 2,216 Sq Ft",
+   "Lakefront, 2-Car Garage, Updated / Value-Add Opportunity, HOA $92/Month,"
+  ],
+  "source": "Shark",
+  "ask": 645000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/10755-sw-17th-pl-davie-fl-33324.jpg"
+ },
+ {
   "addr": "4220 Ne 26th Ave, Lighthouse Point, Fl 33064",
   "city": "Lighthouse Point",
   "county": "Broward",
@@ -1921,20 +1934,6 @@
   "source": "Shark",
   "ask": 880000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/4220-ne-26th-ave-lighthouse-point-fl-33064.jpg"
- },
- {
-  "addr": "10755 Sw 17th Pl, Davie, Fl 33324",
-  "city": "Davie",
-  "county": "Broward",
-  "wholesale": 620000,
-  "arv": "",
-  "specs": [
-   "4 Beds / 2.5 Baths, 2,216 Sq Ft",
-   "Lakefront, 2-Car Garage, Updated / Value-Add Opportunity, HOA $92/Month,"
-  ],
-  "source": "Shark",
-  "ask": 645000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/10755-sw-17th-pl-davie-fl-33324.jpg"
  },
  {
   "addr": "Pompano Beach, FL 33064",
@@ -2521,17 +2520,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/4833-dolores-ct-cocoa-fl-32926.jpg"
  },
  {
-  "addr": "GROUND POOL",
-  "city": "Merritt Island",
-  "county": "Brevard",
-  "wholesale": 395000,
-  "arv": "56k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 420000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/ground-pool.jpg"
- },
- {
   "addr": "619 Grand St, Orlando, Fl 32805",
   "city": "Orlando",
   "county": "Orange",
@@ -3020,6 +3008,17 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/3206-decatur-ave-lakeland-fl.jpg"
  },
  {
+  "addr": "Sarasota, FL 34231",
+  "city": "Sarasota",
+  "county": "Outros",
+  "wholesale": 800000,
+  "arv": "",
+  "specs": [],
+  "source": "Investorlift",
+  "ask": 830000,
+  "img": "https://investmentbico.github.io/pcr-deals/images/listings/sarasota-fl-34231.jpg"
+ },
+ {
   "addr": "Lake Placid, FL 33852",
   "city": "Lake Placid",
   "county": "Outros",
@@ -3034,26 +3033,26 @@
  },
  {
   "addr": "600 Rinehart Rd, Lake Mary, FL 32746",
-  "city": "Clermont",
+  "city": "Mount Dora",
   "county": "Outros",
-  "wholesale": 298900,
-  "arv": "43k",
+  "wholesale": 374900,
+  "arv": "54k",
   "specs": [],
   "source": "Investorlift",
-  "ask": 323900,
+  "ask": 399900,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/600-rinehart-rd-lake-mary-fl-32746.jpg"
  },
  {
   "addr": ", FL",
   "city": "",
   "county": "Outros",
-  "wholesale": 178999,
+  "wholesale": 115500,
   "arv": "",
   "specs": [
-   "Largo, FL, Block 2/1 $178,999"
+   "Seffner, FL, NO HOA $115,500 Townhome"
   ],
   "source": "Beau Roberts",
-  "ask": 218999,
+  "ask": 155500,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/fl.jpg"
  },
  {
@@ -3494,16 +3493,5 @@
   "source": "Investorlift",
   "ask": 145000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/ocklawaha-fl-32179.jpg"
- },
- {
-  "addr": "Pensacola, FL 32507",
-  "city": "Pensacola",
-  "county": "Outros",
-  "wholesale": 119900,
-  "arv": "7k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 144900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/pensacola-fl-32507.jpg"
  }
 ]
