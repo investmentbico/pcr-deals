@@ -252,34 +252,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/3450-nw-203rd-st-miami-gardens-fl-33056.jpg"
  },
  {
-  "addr": "6 Ave Miami, FL 33150",
-  "city": "Miami",
-  "county": "Miami-Dade",
-  "wholesale": 305000,
-  "arv": "500,000",
-  "specs": [
-   "2 Beds / 1 Bath, 650 Sq Ft",
-   "Needs New Roof, AC & Renovations"
-  ],
-  "source": "Shark",
-  "ask": 330000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/6-ave-miami-fl-33150.jpg"
- },
- {
-  "addr": "408 NW 12th St, Florida City, FL 33034",
-  "city": "Florida City",
-  "county": "Miami-Dade",
-  "wholesale": 325000,
-  "arv": "460,000",
-  "specs": [
-   "3 Beds / 1 Bath, 1,196 Sq Ft",
-   "New AC, Roof Updated (2023), Vacant At Closing"
-  ],
-  "source": "Shark",
-  "ask": 350000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/408-nw-12th-st-florida-city-fl-33034.jpg"
- },
- {
   "addr": "1713 NW 76th Ter, Miami, FL 33147",
   "city": "Miami",
   "county": "Miami-Dade",
@@ -1245,20 +1217,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/321-s-fig-tree-ln-plantation-fl-33317.jpg"
  },
  {
-  "addr": "424 Oriole Circle, Jupiter, FL 33458",
-  "city": "Jupiter",
-  "county": "Palm Beach",
-  "wholesale": 670000,
-  "arv": "900,000",
-  "specs": [
-   "3 Beds / 2 Baths, 2,078 Sq Ft",
-   "Built 2000, Single-Family Home, Masonry Construction / Stucco Exterior,"
-  ],
-  "source": "Shark",
-  "ask": 695000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/424-oriole-circle-jupiter-fl-33458.jpg"
- },
- {
   "addr": "680 Coral Way, Delray Beach, FL 33445",
   "city": "Delray Beach",
   "county": "Palm Beach",
@@ -1588,20 +1546,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/361-sw-tulip-blvd-port-st-lucie-fl-34953.jpg"
  },
  {
-  "addr": "825 Sandia Ave, Port St. Lucie, FL 34983",
-  "city": "Port St. Lucie",
-  "county": "St. Lucie",
-  "wholesale": 240000,
-  "arv": "",
-  "specs": [
-   "5 Beds / 2 Baths, 1,900+ Sq Ft",
-   "Private Pool, Needs TLC, No Interior Access Currently"
-  ],
-  "source": "Shark",
-  "ask": 265000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/825-sandia-ave-port-st-lucie-fl-34983.jpg"
- },
- {
   "addr": "8880 100th Ave, Vero Beach, FL 32967",
   "city": "Vero Beach",
   "county": "Brevard",
@@ -1690,34 +1634,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/14101-allison-dr-orlando-fl-32826.jpg"
  },
  {
-  "addr": "5423 Ashmeade Rd, Orlando, FL 32810",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 239000,
-  "arv": "410,000",
-  "specs": [
-   "3 Beds / 2 Baths, 2,180 Sq Ft",
-   "Built 1960, Brand-New Roof 2026, Vacant"
-  ],
-  "source": "Shark",
-  "ask": 264000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5423-ashmeade-rd-orlando-fl-32810.jpg"
- },
- {
-  "addr": "3309 Coleman Pl, Orlando, FL 32805",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 210000,
-  "arv": "256,000",
-  "specs": [
-   "3 Beds / 2 Baths, 1,329 Sq Ft",
-   "Built 1962, Turn-Key, Estimated Rehab $5,000, Vacant, No Interior Access"
-  ],
-  "source": "Shark",
-  "ask": 235000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/3309-coleman-pl-orlando-fl-32805.jpg"
- },
- {
   "addr": "3519 Calumet Dr, Orlando, FL 32810",
   "city": "Orlando",
   "county": "Orange",
@@ -1758,20 +1674,6 @@
   "source": "Shark",
   "ask": 178533,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/5000-danny-boy-cir-orlando-fl-32808.jpg"
- },
- {
-  "addr": "14648 Potanow Trl, Orlando, FL 32837",
-  "city": "Orlando",
-  "county": "Orange",
-  "wholesale": 459900,
-  "arv": "565,000",
-  "specs": [
-   "4 Beds / 2.5 Baths, 2,272 Sq Ft",
-   "Block & Stucco / Built 1990, Hunters Creek / Cul-De-Sac, Pool / Screened"
-  ],
-  "source": "Shark",
-  "ask": 484900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/14648-potanow-trl-orlando-fl-32837.jpg"
  },
  {
   "addr": "5620 Hollow Oak Rd, Orlando, FL 32808",
@@ -1832,17 +1734,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/2578-haulover-blvd-deltona-fl-32738.jpg"
  },
  {
-  "addr": "Deltona, FL 32738",
-  "city": "Deltona",
-  "county": "Volusia",
-  "wholesale": 260000,
-  "arv": "41k",
-  "specs": [],
-  "source": "Investorlift",
-  "ask": 285000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/deltona-fl-32738.jpg"
- },
- {
   "addr": "1213 SW 9th Ter, Cape Coral, FL 33991",
   "city": "Cape Coral",
   "county": "Lee",
@@ -1883,22 +1774,6 @@
   "source": "Shark",
   "ask": 485000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/3024-marlo-blvd-clearwater-fl-33759.jpg"
- },
- {
-  "addr": "13606 Bryndlewood Ct, Hudson, FL 34669",
-  "city": "Hudson",
-  "county": "Pasco",
-  "wholesale": 214900,
-  "arv": "315,000",
-  "specs": [
-   "2 Beds / 2 Baths, 1,716 Sq Ft",
-   "Built 2000, Concrete Block / Stucco Construction, The Preserve at Fairway",
-   "12 Beds / 8 Baths Total, 4,024 Sq Ft",
-   "Built 1985, Legal Fourplex / 4 Units, Block Construction, Roof Replaced"
-  ],
-  "source": "Shark",
-  "ask": 239900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/13606-bryndlewood-ct-hudson-fl-34669.jpg"
  },
  {
   "addr": "13652 Pimberton Dr, Hudson, FL 34669",
@@ -1970,20 +1845,6 @@
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/winter-haven-fl-33880.jpg"
  },
  {
-  "addr": "5715 Tanasi Ct, Lakeland, FL 33812",
-  "city": "Lakeland",
-  "county": "Polk",
-  "wholesale": 309900,
-  "arv": "",
-  "specs": [
-   "4 Beds / 2 Baths, 2,365 Sq Ft",
-   "Built 1994, Roof Replaced (2011), Public Sewer, HOA $10/Month"
-  ],
-  "source": "Shark",
-  "ask": 334900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/5715-tanasi-ct-lakeland-fl-33812.jpg"
- },
- {
   "addr": "4 Parking Spaces, Tile Fl",
   "city": "Tile",
   "county": "Outros",
@@ -2010,20 +1871,6 @@
   "source": "Shark",
   "ask": 230000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/31-ruth-dr-palm-coast-fl-32164.jpg"
- },
- {
-  "addr": "1090 Panther St, Oviedo, Fl 32765",
-  "city": "Oviedo",
-  "county": "Outros",
-  "wholesale": 390000,
-  "arv": "600,000",
-  "specs": [
-   "4 Beds / 3 Baths Total (3/2 Main House + Separate 1/1 Unit), 2,033 Sq Ft",
-   "Brick / Wood Construction, 2-Car Garage, Roof Less Than 10 Years, Septic"
-  ],
-  "source": "Shark",
-  "ask": 415000,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/1090-panther-st-oviedo-fl-32765.jpg"
  },
  {
   "addr": "1649 Cordova Ave, Holly Hill, FL 32117",
@@ -2150,20 +1997,6 @@
   "source": "Shark",
   "ask": 304000,
   "img": "https://investmentbico.github.io/pcr-deals/images/listings/35-matanzas-cir-saint-augustine-fl-32080.jpg"
- },
- {
-  "addr": "2609 Drumwood Pl, Valrico, FL 33596",
-  "city": "Valrico",
-  "county": "Outros",
-  "wholesale": 297900,
-  "arv": "400,000",
-  "specs": [
-   "3 Beds / 2 Baths, 1,690 Sq Ft",
-   "Built 1987, 2-Car Garage, Split-Bedroom Floor Plan, Fireplace / Oversized"
-  ],
-  "source": "Shark",
-  "ask": 322900,
-  "img": "https://investmentbico.github.io/pcr-deals/images/listings/2609-drumwood-pl-valrico-fl-33596.jpg"
  },
  {
   "addr": "2355 NE 166th Pl, Citra, FL 32113",
